@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="7963" visitedSequencePoints="3850" numBranchPoints="1840" visitedBranchPoints="883" sequenceCoverage="48.34" branchCoverage="47.98" maxCyclomaticComplexity="2800" minCyclomaticComplexity="2800" visitedClasses="94" numClasses="136" visitedMethods="681" numMethods="1364" />
   <Modules>
-    <Module hash="9610B27B-C0E9-4C26-82A6-5F6B1BB8C9B1">
+    <Module hash="9BFD4AF7-6EBF-4D78-9E6F-CE74BEFA09D9">
       <ModulePath>GRYLibrary.dll</ModulePath>
-      <ModuleTime>2021-09-02T12:37:07</ModuleTime>
+      <ModuleTime>2021-09-02T07:58:59</ModuleTime>
       <ModuleName>GRYLibrary</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Data\Projects\Common\GRYLibraryBuild\Submodules\GRYLibrary\GRYLibrary\XMLSerializer\KeyValuePair.cs" />
@@ -3629,9 +3629,9 @@
               <Name>System.Boolean GRYLibrary.Core.Miscellaneous.ExternalProgramExecutor::get_IsRunning()</Name>
               <FileRef uid="21" />
               <SequencePoints>
-                <SequencePoint vc="40" uspid="69" ordinal="0" sl="69" sc="1" el="69" ec="2" bec="0" bev="0" fileid="21" />
-                <SequencePoint vc="40" uspid="70" ordinal="1" sl="70" sc="1" el="70" ec="2" bec="0" bev="0" fileid="21" />
-                <SequencePoint vc="40" uspid="71" ordinal="2" sl="71" sc="1" el="71" ec="2" bec="0" bev="0" fileid="21" />
+                <SequencePoint vc="38" uspid="69" ordinal="0" sl="69" sc="1" el="69" ec="2" bec="0" bev="0" fileid="21" />
+                <SequencePoint vc="38" uspid="70" ordinal="1" sl="70" sc="1" el="70" ec="2" bec="0" bev="0" fileid="21" />
+                <SequencePoint vc="38" uspid="71" ordinal="2" sl="71" sc="1" el="71" ec="2" bec="0" bev="0" fileid="21" />
               </SequencePoints>
               <BranchPoints />
               <MethodPoint vc="3" uspid="0" p8:type="SequencePoint" ordinal="16" offset="16" sc="0" sl="69" ec="1" el="71" bec="0" bev="0" fileid="21" xmlns:p8="xsi" />
@@ -4368,24 +4368,24 @@
               <FileRef uid="21" />
               <SequencePoints>
                 <SequencePoint vc="4" uspid="580" ordinal="0" sl="580" sc="1" el="580" ec="2" bec="0" bev="0" fileid="21" />
-                <SequencePoint vc="40" uspid="581" ordinal="1" sl="581" sc="1" el="581" ec="2" bec="4" bev="4" fileid="21" />
-                <SequencePoint vc="36" uspid="582" ordinal="2" sl="582" sc="1" el="582" ec="2" bec="0" bev="0" fileid="21" />
-                <SequencePoint vc="36" uspid="583" ordinal="3" sl="583" sc="1" el="583" ec="2" bec="2" bev="1" fileid="21" />
+                <SequencePoint vc="38" uspid="581" ordinal="1" sl="581" sc="1" el="581" ec="2" bec="4" bev="4" fileid="21" />
+                <SequencePoint vc="34" uspid="582" ordinal="2" sl="582" sc="1" el="582" ec="2" bec="0" bev="0" fileid="21" />
+                <SequencePoint vc="34" uspid="583" ordinal="3" sl="583" sc="1" el="583" ec="2" bec="2" bev="1" fileid="21" />
                 <SequencePoint vc="0" uspid="584" ordinal="4" sl="584" sc="1" el="584" ec="2" bec="0" bev="0" fileid="21" />
                 <SequencePoint vc="0" uspid="585" ordinal="5" sl="585" sc="1" el="585" ec="2" bec="0" bev="0" fileid="21" />
                 <SequencePoint vc="0" uspid="586" ordinal="6" sl="586" sc="1" el="586" ec="2" bec="0" bev="0" fileid="21" />
-                <SequencePoint vc="36" uspid="588" ordinal="7" sl="588" sc="1" el="588" ec="2" bec="0" bev="0" fileid="21" />
-                <SequencePoint vc="36" uspid="589" ordinal="8" sl="589" sc="1" el="589" ec="2" bec="0" bev="0" fileid="21" />
-                <SequencePoint vc="36" uspid="590" ordinal="9" sl="590" sc="1" el="590" ec="2" bec="0" bev="0" fileid="21" />
-                <SequencePoint vc="36" uspid="591" ordinal="10" sl="591" sc="1" el="591" ec="2" bec="0" bev="0" fileid="21" />
+                <SequencePoint vc="34" uspid="588" ordinal="7" sl="588" sc="1" el="588" ec="2" bec="0" bev="0" fileid="21" />
+                <SequencePoint vc="34" uspid="589" ordinal="8" sl="589" sc="1" el="589" ec="2" bec="0" bev="0" fileid="21" />
+                <SequencePoint vc="34" uspid="590" ordinal="9" sl="590" sc="1" el="590" ec="2" bec="0" bev="0" fileid="21" />
+                <SequencePoint vc="34" uspid="591" ordinal="10" sl="591" sc="1" el="591" ec="2" bec="0" bev="0" fileid="21" />
                 <SequencePoint vc="4" uspid="592" ordinal="11" sl="592" sc="1" el="592" ec="2" bec="0" bev="0" fileid="21" />
               </SequencePoints>
               <BranchPoints>
-                <BranchPoint vc="36" uspid="581" ordinal="5" path="1" offset="88" offsetend="3" sl="581" fileid="21" />
+                <BranchPoint vc="34" uspid="581" ordinal="5" path="1" offset="88" offsetend="3" sl="581" fileid="21" />
                 <BranchPoint vc="0" uspid="583" ordinal="0" path="0" offset="19" offsetend="21" sl="583" fileid="21" />
-                <BranchPoint vc="36" uspid="583" ordinal="1" path="1" offset="19" offsetend="50" sl="583" fileid="21" />
+                <BranchPoint vc="34" uspid="583" ordinal="1" path="1" offset="19" offsetend="50" sl="583" fileid="21" />
                 <BranchPoint vc="4" uspid="581" ordinal="2" path="0" offset="67" offsetend="69" sl="581" fileid="21" />
-                <BranchPoint vc="36" uspid="581" ordinal="3" path="1" offset="67" offsetend="85" sl="581" fileid="21" />
+                <BranchPoint vc="34" uspid="581" ordinal="3" path="1" offset="67" offsetend="85" sl="581" fileid="21" />
                 <BranchPoint vc="4" uspid="581" ordinal="4" path="0" offset="88" offsetend="90" sl="581" fileid="21" />
               </BranchPoints>
               <MethodPoint vc="9" uspid="0" p8:type="SequencePoint" ordinal="43" offset="43" sc="0" sl="580" ec="1" el="592" bec="0" bev="0" fileid="21" xmlns:p8="xsi" />
