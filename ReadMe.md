@@ -4,8 +4,8 @@ This is the repository with the source-code of anionDev.github.io.
 
 ## Content
 
-- [https://github.com/anionDev/ScriptCollectionReference/index.html](ScriptCollection-reference)
-- [https://github.com/anionDev/GRYLibraryReference/index.html](GRYLibrary-reference)
+- [ScriptCollection-reference](https://github.com/anionDev/ScriptCollectionReference/index.html)
+- [GRYLibrary-reference](https://github.com/anionDev/GRYLibraryReference/index.html)
 
 ## Other
 
