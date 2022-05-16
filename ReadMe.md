@@ -9,4 +9,4 @@ This is the repository with the source-code of anionDev.github.io.
 
 ## Other
 
-- [https://github.com/anionDev](Github-profile)
+- [Github-profile](https://github.com/anionDev)
