@@ -1761,6 +1761,57 @@ references:
   isSpec: "True"
   fullName: GRYLibrary.Core.APIServer.Binder.GRYDateTimeOptionalBinder.BindModelAsync
   nameWithType: GRYDateTimeOptionalBinder.BindModelAsync
+- uid: GRYLibrary.Core.APIServer.CommonDBTypes
+  name: GRYLibrary.Core.APIServer.CommonDBTypes
+  href: API/GRYLibrary.Core.APIServer.CommonDBTypes.html
+  commentId: N:GRYLibrary.Core.APIServer.CommonDBTypes
+  fullName: GRYLibrary.Core.APIServer.CommonDBTypes
+  nameWithType: GRYLibrary.Core.APIServer.CommonDBTypes
+- uid: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey
+  name: APIKey
+  href: API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html
+  commentId: T:GRYLibrary.Core.APIServer.CommonDBTypes.APIKey
+  fullName: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey
+  nameWithType: APIKey
+- uid: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.APIKeyValue
+  name: APIKeyValue
+  href: API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html#GRYLibrary_Core_APIServer_CommonDBTypes_APIKey_APIKeyValue
+  commentId: P:GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.APIKeyValue
+  fullName: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.APIKeyValue
+  nameWithType: APIKey.APIKeyValue
+- uid: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.APIKeyValue*
+  name: APIKeyValue
+  href: API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html#GRYLibrary_Core_APIServer_CommonDBTypes_APIKey_APIKeyValue_
+  commentId: Overload:GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.APIKeyValue
+  isSpec: "True"
+  fullName: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.APIKeyValue
+  nameWithType: APIKey.APIKeyValue
+- uid: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.Description
+  name: Description
+  href: API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html#GRYLibrary_Core_APIServer_CommonDBTypes_APIKey_Description
+  commentId: P:GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.Description
+  fullName: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.Description
+  nameWithType: APIKey.Description
+- uid: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.Description*
+  name: Description
+  href: API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html#GRYLibrary_Core_APIServer_CommonDBTypes_APIKey_Description_
+  commentId: Overload:GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.Description
+  isSpec: "True"
+  fullName: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.Description
+  nameWithType: APIKey.Description
+- uid: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.ExpireMoment
+  name: ExpireMoment
+  href: API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html#GRYLibrary_Core_APIServer_CommonDBTypes_APIKey_ExpireMoment
+  commentId: P:GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.ExpireMoment
+  fullName: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.ExpireMoment
+  nameWithType: APIKey.ExpireMoment
+- uid: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.ExpireMoment*
+  name: ExpireMoment
+  href: API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html#GRYLibrary_Core_APIServer_CommonDBTypes_APIKey_ExpireMoment_
+  commentId: Overload:GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.ExpireMoment
+  isSpec: "True"
+  fullName: GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.ExpireMoment
+  nameWithType: APIKey.ExpireMoment
 - uid: GRYLibrary.Core.APIServer.CommonRoutes
   name: GRYLibrary.Core.APIServer.CommonRoutes
   href: API/GRYLibrary.Core.APIServer.CommonRoutes.html
@@ -6546,51 +6597,6 @@ references:
   commentId: N:GRYLibrary.Core.APIServer.Utilities
   fullName: GRYLibrary.Core.APIServer.Utilities
   nameWithType: GRYLibrary.Core.APIServer.Utilities
-- uid: GRYLibrary.Core.APIServer.Utilities.APIKey
-  name: APIKey
-  href: API/GRYLibrary.Core.APIServer.Utilities.APIKey.html
-  commentId: T:GRYLibrary.Core.APIServer.Utilities.APIKey
-  fullName: GRYLibrary.Core.APIServer.Utilities.APIKey
-  nameWithType: APIKey
-- uid: GRYLibrary.Core.APIServer.Utilities.APIKey.APIKeyValue
-  name: APIKeyValue
-  href: API/GRYLibrary.Core.APIServer.Utilities.APIKey.html#GRYLibrary_Core_APIServer_Utilities_APIKey_APIKeyValue
-  commentId: P:GRYLibrary.Core.APIServer.Utilities.APIKey.APIKeyValue
-  fullName: GRYLibrary.Core.APIServer.Utilities.APIKey.APIKeyValue
-  nameWithType: APIKey.APIKeyValue
-- uid: GRYLibrary.Core.APIServer.Utilities.APIKey.APIKeyValue*
-  name: APIKeyValue
-  href: API/GRYLibrary.Core.APIServer.Utilities.APIKey.html#GRYLibrary_Core_APIServer_Utilities_APIKey_APIKeyValue_
-  commentId: Overload:GRYLibrary.Core.APIServer.Utilities.APIKey.APIKeyValue
-  isSpec: "True"
-  fullName: GRYLibrary.Core.APIServer.Utilities.APIKey.APIKeyValue
-  nameWithType: APIKey.APIKeyValue
-- uid: GRYLibrary.Core.APIServer.Utilities.APIKey.Description
-  name: Description
-  href: API/GRYLibrary.Core.APIServer.Utilities.APIKey.html#GRYLibrary_Core_APIServer_Utilities_APIKey_Description
-  commentId: P:GRYLibrary.Core.APIServer.Utilities.APIKey.Description
-  fullName: GRYLibrary.Core.APIServer.Utilities.APIKey.Description
-  nameWithType: APIKey.Description
-- uid: GRYLibrary.Core.APIServer.Utilities.APIKey.Description*
-  name: Description
-  href: API/GRYLibrary.Core.APIServer.Utilities.APIKey.html#GRYLibrary_Core_APIServer_Utilities_APIKey_Description_
-  commentId: Overload:GRYLibrary.Core.APIServer.Utilities.APIKey.Description
-  isSpec: "True"
-  fullName: GRYLibrary.Core.APIServer.Utilities.APIKey.Description
-  nameWithType: APIKey.Description
-- uid: GRYLibrary.Core.APIServer.Utilities.APIKey.ExpireMoment
-  name: ExpireMoment
-  href: API/GRYLibrary.Core.APIServer.Utilities.APIKey.html#GRYLibrary_Core_APIServer_Utilities_APIKey_ExpireMoment
-  commentId: P:GRYLibrary.Core.APIServer.Utilities.APIKey.ExpireMoment
-  fullName: GRYLibrary.Core.APIServer.Utilities.APIKey.ExpireMoment
-  nameWithType: APIKey.ExpireMoment
-- uid: GRYLibrary.Core.APIServer.Utilities.APIKey.ExpireMoment*
-  name: ExpireMoment
-  href: API/GRYLibrary.Core.APIServer.Utilities.APIKey.html#GRYLibrary_Core_APIServer_Utilities_APIKey_ExpireMoment_
-  commentId: Overload:GRYLibrary.Core.APIServer.Utilities.APIKey.ExpireMoment
-  isSpec: "True"
-  fullName: GRYLibrary.Core.APIServer.Utilities.APIKey.ExpireMoment
-  nameWithType: APIKey.ExpireMoment
 - uid: GRYLibrary.Core.APIServer.Utilities.GetLoggerVisitor
   name: GetLoggerVisitor
   href: API/GRYLibrary.Core.APIServer.Utilities.GetLoggerVisitor.html

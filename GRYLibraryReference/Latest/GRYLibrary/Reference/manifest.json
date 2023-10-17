@@ -53,6 +53,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html",
+          "hash": "bvGthy2vib+qrqvwaRq49UILdhYTJjW7uirtfSbtDNw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.html",
+          "hash": "jIt4ycCO2vAkydgV8btSSFCwAaNoC8CtN7JIlhzF6PY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesController.yml",
       "output": {
         ".html": {
@@ -1433,18 +1457,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.APIKey.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.APIKey.html",
-          "hash": "bPQKapYBy2r1JZOmzdpxOrqfzwG/Z64w1268hizoC2c="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.GetLoggerVisitor.yml",
       "output": {
         ".html": {
@@ -1509,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.html",
-          "hash": "8+YaAqrunsujdnhq0ZXWQ9WVcsQAuRXEERn+hr4tpdg="
+          "hash": "viTXuo85MeEzbmCxFEMuBWGeSXlQuwnVARzgXdGPjIM="
         }
       },
       "is_incremental": false,
@@ -4473,7 +4485,7 @@
       "output": {
         ".html": {
           "relative_path": "API/toc.html",
-          "hash": "ryQlxcs81W1jZVolQ5PurQM/NLspbsE0O1Hvr0k1xc8="
+          "hash": "7AuqA/tX3vCermUxxZQXkRejfRiGGcwJI5Fs/VS6V4s="
         }
       },
       "is_incremental": false,
@@ -4610,7 +4622,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 371,
+          "total_file_count": 372,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
