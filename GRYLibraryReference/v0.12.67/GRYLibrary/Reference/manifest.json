@@ -1,0 +1,4733 @@
+{
+  "homepages": [],
+  "source_base_path": "E:/Data/Projects/Common/GRYLibraryBuild/Submodules/GRYLibrary/GRYLibrary/Other/Reference",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.APIServer-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.APIServer-3.html",
+          "hash": "cso5xSVdS/KH6qZyyqkajzwvMNh675T/+tGvyoodBJo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Binder.GRYDateTimeMandatoryBinder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Binder.GRYDateTimeMandatoryBinder.html",
+          "hash": "wNbitBC1CQImbYbDixQRVQNY3WK6uxW9lLNLH2GuL9M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Binder.GRYDateTimeOptionalBinder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Binder.GRYDateTimeOptionalBinder.html",
+          "hash": "w+HupCdjtZf5nZqYjqkLOoDQMFRUz41e4mKuKXLHGD4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Binder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Binder.html",
+          "hash": "VBa1M86VQ+VLgS3c1zjO1lpfM+1ozHfsZHJFBZHDJrE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html",
+          "hash": "HtNF4eOEiI2n6wmzDCfNfnS7lrreaak1UoLq0yEBXfI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.KeyValuePair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.KeyValuePair.html",
+          "hash": "Ay/6J3pRNPacM+klcB0YFB11JZ19jIdYYuuPtXN7iW0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.User.html",
+          "hash": "Dnle5pjvrxdiVbsa39gyiRggBB+Ha1t0qoX8fdFtBOs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.html",
+          "hash": "+cjuyZgZbcNoFchWRbdN1RVX0hzVsybOZYbFIwuZQ0U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesController.html",
+          "hash": "QKDnFgv4EwwPdHwS/pwnSjlR7BbeFY7wjyQW1urfsrU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesHostInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesHostInformation.html",
+          "hash": "tODECZk8DBLKeUcz06gXiNzQZZXNU6Vi30MmZ46jRm4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesInformation.html",
+          "hash": "7PZfMXQqefVFlleBzsDOFGKpnsl8hzEQsfrWsvPhaIk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.DoNotHostCommonRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.DoNotHostCommonRoutes.html",
+          "hash": "0AoU+lKa2g2G4I378rF2wgXFzvaCL5GYqC7/BluBPds="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.HostCommonRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.HostCommonRoutes.html",
+          "hash": "OUxOfuXI8cZVdRT1vwRxjwLovUBitpzCsq4PrsVxFrA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesHostInformationVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesHostInformationVisitor-1.html",
+          "hash": "TTKOG1Sbq/g0DVoeRXVPYundMMy2wUei3xKuO7fCz3o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesHostInformationVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesHostInformationVisitor.html",
+          "hash": "t3Sk+HJBbMUYOEJ0vl/GnwEzY6Ilp5HWsaUnrc3UJVY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesInformation.html",
+          "hash": "OiNeEIvohKnqSiLXQkyqlBHwfDN1I34fEqZtGbnzVwY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.html",
+          "hash": "tT43KPoL6xHie02AoOlAkBPF/T4LeqJuV0dPOJCal3k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.Development.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.Development.html",
+          "hash": "Yz/ux5lEvMXQ+4KWMZY4XrbWd0dD9W9pXaHI0kU4Gao="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.GRYEnvironment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.GRYEnvironment.html",
+          "hash": "FI04nCeIvPNnTdYKvbowZKHTofPI6MRkotBBSH2pGWI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.IEnvironmentVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.IEnvironmentVisitor-1.html",
+          "hash": "PCnN6WCygnqXzqDs4kXgN94fDrk7hwYoJRtNANxraDw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.IEnvironmentVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.IEnvironmentVisitor.html",
+          "hash": "f8T9IygIkj3yXMSymeNi74+LYuxImcfHBkgM7XcuzXA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.Productive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.Productive.html",
+          "hash": "D8NmLdQ1cxAe+3BFqkBx4PbWJ85JbOlxrfI/hPggzR0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.QualityCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.QualityCheck.html",
+          "hash": "H4y/QsDVP5WueDz2sDbBZqunSV6mgr9NtHcFOeNFjws="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.html",
+          "hash": "4y+hOIkvWneXb0aRnGbnMSL+7H6PkL3HRDSAeW05nOA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.Analysis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.Analysis.html",
+          "hash": "mxOcAsFoMbeluEFuuf+bIMUhODocVZbdnFPg0/3ie34="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.ExecutionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.ExecutionMode.html",
+          "hash": "6H4xptssRQRX4rblmejIhp9lsIOwDorSh5wgp8elOuY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.IExecutionModeVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.IExecutionModeVisitor-1.html",
+          "hash": "BFAdxuOFrjHPlaSAz0+uFCybpEpfLjB5iexm18HcW5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.IExecutionModeVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.IExecutionModeVisitor.html",
+          "hash": "tbisGYA1NHYZQDBYyL+bg4IM0mYWOZ+0bGNolBBILWQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.RunProgram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.RunProgram.html",
+          "hash": "SjDcx/DpZKUUzX3vpMA3amaFsdiPh6Bx4c1Oeb5C63g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.TestRun.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.TestRun.html",
+          "hash": "7hKZa/T9n50Pr18qvbtDjqYx71kRG+DurhcJg9o5ZnI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.Visitors.GetBaseFolder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.Visitors.GetBaseFolder.html",
+          "hash": "lDPzd9v65KkS4Swm5hlN+wkSb53JUaNUWxDR0EF8qMg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.Visitors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.Visitors.html",
+          "hash": "cNTp+JWGmVNcO0F8nbpJRZrC0hB0m1VYpK/dwYoED9E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.html",
+          "hash": "z9VAIf9Bs+O1kp8TtZLmokmEcqvpfbT4572uiXUvMvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AbstractMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AbstractMiddleware.html",
+          "hash": "6YuaZ00cYOnnE/v9QtmKJMr1/9VNjZXq05yZLdXxtxY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.APIKeyValidatorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.APIKeyValidatorConfiguration.html",
+          "hash": "NZ9WPkXQZH0NUAt7WUTPr7En0O5hc3SQfKPGZ0ETFsI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.APIKeyValidatorFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.APIKeyValidatorFilter.html",
+          "hash": "B/Lg0j0qtr8ULFm1dIIdzjXObvIJGaZP2kAUr0PK5KI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.APIKeyValidatorMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.APIKeyValidatorMiddleware.html",
+          "hash": "2nlShvP696NawGdtU/9BP730BzZ2wk6+jTyfY1lYwhk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.IAPIKeyValidatorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.IAPIKeyValidatorConfiguration.html",
+          "hash": "1fCVdegBxUrUc9MUwzdNoJuu/yzYVC713w5yb4VaOcQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.APIK.html",
+          "hash": "avLxKcGLi348BqLD7qZJPPVEDJjpExtNvAIbNKgt6A4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.AuthorizationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.AuthorizationMiddleware.html",
+          "hash": "heWdsuYwRpXPIf1ndOosVGpa4ZaJn18Kg10J9g4kGYM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.IAuthorizationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.IAuthorizationConfiguration.html",
+          "hash": "coSLBwalP4d+31cZAmG6PQuxx4cxjbc3/Zxy91YEHXg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.ISupportAuthorizationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.ISupportAuthorizationMiddleware.html",
+          "hash": "7JwzYHWxvsipnr2cxkGozwNXR+Uwr9dCQ0cnJGKKgI4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.KC.IKeyCloakAuthorizationMiddlewareConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.KC.IKeyCloakAuthorizationMiddlewareConfiguration.html",
+          "hash": "5rf4YL5AqpOGG/rYEUe6NxyC2SX0//dMlhiEAW16/18="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.KC.KeyCloakAuthorizationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.KC.KeyCloakAuthorizationMiddleware.html",
+          "hash": "y/vtFHofuXxsKNOCdve5ypHga/r04IU4Ok/UOHTR/P4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.KC.KeyCloakAuthorizationMiddlewareConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.KC.KeyCloakAuthorizationMiddlewareConfiguration.html",
+          "hash": "ZOfjoZmAuF8enEwOmnsi0ZpHGgmJSKhQP98VXlzhlio="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.KC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.KC.html",
+          "hash": "dIk96ZlEjiYW/GUUZZztdFUYjmgNc3jYcjxHXsaNrC8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Aut.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Aut.html",
+          "hash": "7bTo5bSxZF0jpKwTEdrhIjNwQlFOP+e4juuIiZe2g24="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Auth.AuthenticationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Auth.AuthenticationMiddleware.html",
+          "hash": "a+uzI/80PiETAUByThsXTH6eg8nGdvdu2I6RzXtE9ig="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Auth.IAuthenticationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Auth.IAuthenticationConfiguration.html",
+          "hash": "sA3rL1eOgDl3WDmYN3DYT+AUbT4D8+D4PXrLLm9CdZg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Auth.ISupportAuthenticationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Auth.ISupportAuthenticationMiddleware.html",
+          "hash": "27riGC6gXvCpT+qaXGXpyfTeikjEWhKpxYsTq1gCYOg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Auth.KC.IKeyCloakAuthenticationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Auth.KC.IKeyCloakAuthenticationConfiguration.html",
+          "hash": "oh2NZBD9ucIfXBOAESaxDSML+wnS2BF9j8AH7SChSS4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Auth.KC.KeyCloakAuthentication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Auth.KC.KeyCloakAuthentication.html",
+          "hash": "rka8aHwA15/+hpCbX2fz+42g8xjBd85LNO3HNE6iFKw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Auth.KC.KeyCloakAuthenticationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Auth.KC.KeyCloakAuthenticationConfiguration.html",
+          "hash": "kboVz25upUsrUC924EDdsF7dKkwTidLzpCxRGLm/n4U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Auth.KC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Auth.KC.html",
+          "hash": "nJAW6L9+Jd+lb4HF+CbQYEaqvDu523eR0Js3HHI351g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Auth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Auth.html",
+          "hash": "erY1vW/ud2yKqgRCrs75AVwX7hKxc4BM15NXViOQ6TE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Blacklist.BlacklistConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Blacklist.BlacklistConfiguration.html",
+          "hash": "KmkbB1NdL/m/PNXdGU3PvUhCoGapZIpE9ZhZnRHlZAM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Blacklist.BlacklistMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Blacklist.BlacklistMiddleware.html",
+          "hash": "BjnXBwf6MFSvjKu/Qz9/a0CLUc3tM1DvOnG2s/tF6+8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Blacklist.IBlacklistConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Blacklist.IBlacklistConfiguration.html",
+          "hash": "G6bN1B/w/Zm8JJ1fTUPu0OfvqBwcaipmQbV8jfcYBlk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Blacklist.ISupportBlacklistMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Blacklist.ISupportBlacklistMiddleware.html",
+          "hash": "UGpqALoOqCToHz0YnlbO1+kvqZYsZD9Dz7tMvkESazI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Blacklist.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Blacklist.html",
+          "hash": "0XFNb3+qgbPMhj0CTdQiIU5b9SRIWN/GciEk6HfzNCA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Captcha.CaptchaConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Captcha.CaptchaConfiguration.html",
+          "hash": "yb3CmBzQyLK4A8f0oWJp9hadOhr9CwC5A2NhnMlazDM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Captcha.CaptchaMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Captcha.CaptchaMiddleware.html",
+          "hash": "E4cwkFwdq3/AgpAMOlDMYACnE7kdt1umBiCuHeB/s5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Captcha.ICaptchaConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Captcha.ICaptchaConfiguration.html",
+          "hash": "jzhi8PTXVgReBzn5wIVldWMiRdKBdTmGoBKkHadVJCM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Captcha.ISupportCaptchaMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Captcha.ISupportCaptchaMiddleware.html",
+          "hash": "/KoTzr/jTVC7M7LVY/dlabLgh9hUYpfOgkH5RcuuFG4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Captcha.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Captcha.html",
+          "hash": "pO4I+7p8Nj3hTSbwaHc0moXVdnu3u3TvRS8akGFYjHU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Counter.IRequestCounterConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Counter.IRequestCounterConfiguration.html",
+          "hash": "MUN9waW01kP98cNokKw7VZYrCfCNEkNNX2rAs3ALIvE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Counter.ISupportRequestCounterMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Counter.ISupportRequestCounterMiddleware.html",
+          "hash": "wyGIXAoAJVvFwWOtV+UnFcnGiTdEluLPMgxbsFtnhI4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Counter.RequestCounterConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Counter.RequestCounterConfiguration.html",
+          "hash": "cRbovugzJWM22HEaJEoe1RFCJcYeWsS4IGPtgWvoi/8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Counter.RequestCounterMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Counter.RequestCounterMiddleware.html",
+          "hash": "vSpFpDdJCj8X4h4XozWvm+Eipa9LyABE8kPYsTnpuDo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Counter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Counter.html",
+          "hash": "QTN+SIgZrmjQNxV99TAZr5s4crFohp6VSV64wEtEhrw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.DDOS.DDOSProtectionConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.DDOS.DDOSProtectionConfiguration.html",
+          "hash": "Kj9Sbq+QIv15129dJA6oXwd7R8ZF4KEMgyEVRpKiJXk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.DDOS.DDOSProtectionMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.DDOS.DDOSProtectionMiddleware.html",
+          "hash": "K0YysInLc7vnxqBv6e1rThnwEtQJwWh3izwv5st989Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.DDOS.IDDOSProtectionConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.DDOS.IDDOSProtectionConfiguration.html",
+          "hash": "4fWq3rSrvSJcr4xZCn3S/8vCtYMWtdVj5UGiK2+0iAs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.DDOS.ISupportDDOSProtectionMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.DDOS.ISupportDDOSProtectionMiddleware.html",
+          "hash": "7AOEgRCIKj1aYKhP5G4v292El7FZJap/TtIVVVe3uxU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.DDOS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.DDOS.html",
+          "hash": "XeFHzLT8YAIakb6coDTE1IFvjQukXdD/Z+qxvxsnxoQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Exception.ExceptionManagerConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Exception.ExceptionManagerConfiguration.html",
+          "hash": "mMfgvZwV/KQm0BDAFhfkXE2Yb5ISi6NjqqirPl+B96c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Exception.ExceptionManagerMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Exception.ExceptionManagerMiddleware.html",
+          "hash": "ZvvlbzMCxbscrzc4f6L/BjkxUWmJ+rr6I16a+vPNDGo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Exception.IExceptionManagerConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Exception.IExceptionManagerConfiguration.html",
+          "hash": "+B6JQxj/rASziYs49cgBCaA6gHdm2atZFxiUa3oM6m4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Exception.ISupportExceptionManagerMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Exception.ISupportExceptionManagerMiddleware.html",
+          "hash": "fusiRVI2+BDlrAWiNQnUdsL/+qc3S0dZD8heEVg0qaI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Exception.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Exception.html",
+          "hash": "ga8AE7fpOJwecbgrPkTNQCHIpuMYkT4avEQ+NAPxVCI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.IMiddlewareConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.IMiddlewareConfiguration.html",
+          "hash": "Qg7TbW0uGzTvPk2+a4dBj7d5ydpQ61Gb0FWEc6AJbII="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.ISupportedMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.ISupportedMiddleware.html",
+          "hash": "mzSq4CRx70WrNDQl+0GnMkTIf7PeXymn3OdY0+qLF4k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Logging.IRequestLoggingConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Logging.IRequestLoggingConfiguration.html",
+          "hash": "auorRjRjMX8jgB4Cj2SNgUkuDwseR6SrguFcNxh056Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Logging.ISupportRequestLoggingMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Logging.ISupportRequestLoggingMiddleware.html",
+          "hash": "VZ2YSb/MJMiNH12b/acRIDbgL0DfPB36gKtaWwVRSgU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Logging.Request.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Logging.Request.html",
+          "hash": "ugM+8VMxNHB9N8liy5L0fo4AzETUpUuLAiNZq9EtuNE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Logging.RequestLoggingConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Logging.RequestLoggingConfiguration.html",
+          "hash": "8p35nlivXlzNLz9axDQ0J/S8PMap3mcvQ48utda64SQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Logging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Logging.html",
+          "hash": "33LZKTXUn2BxDITM9NqkQVJPk0HoFsdLjOvNafegfDI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Obfuscation.IObfuscationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Obfuscation.IObfuscationConfiguration.html",
+          "hash": "xO4cjWhNAVtjKbsxEZFzwji0YbD95hYi/yzvGBYZ2ZQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Obfuscation.ISupportObfuscationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Obfuscation.ISupportObfuscationMiddleware.html",
+          "hash": "zHXPQhRnAdremHLpUm3O50stCHTLuRc++ydoxnUvqAg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Obfuscation.ObfuscationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Obfuscation.ObfuscationConfiguration.html",
+          "hash": "KCLTViE9u6JyrM5O3g4/HP2BeiO6n7PZ3UuGgupR6X4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Obfuscation.ObfuscationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Obfuscation.ObfuscationMiddleware.html",
+          "hash": "LdugClhKMp4qeRq2TNIOk5/TcdE3z6rKEi0di9t+Ymk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Obfuscation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Obfuscation.html",
+          "hash": "ExFE9F9mlLh+i/oIoWgIv6SWYOx3lRBUMyBJK/voxLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.RequestLogger.RequestLoggingMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.RequestLogger.RequestLoggingMiddleware.html",
+          "hash": "qhapbK0Efxd02otmV1gEODn0cTLgQogtOr41CEKq60U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.RequestLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.RequestLogger.html",
+          "hash": "V6OnTvG1BCPB8sMm+QBpbkQF54Sz7v6wf6lPWgaPytw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.WAF.ISupportWebApplicationFirewallMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.WAF.ISupportWebApplicationFirewallMiddleware.html",
+          "hash": "AJDor0nLeGllWOZVAzONYJGzj5LrDVnTXPpFnNGNfO4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.WAF.IWebApplicationFirewallConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.WAF.IWebApplicationFirewallConfiguration.html",
+          "hash": "BN/E9rTjuvEnYjKbTjWhVuAdc5UNM7UlW36+bFty5eg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.WAF.WebApplicationFirewallConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.WAF.WebApplicationFirewallConfiguration.html",
+          "hash": "gic0eaZKg4z5TbdUMA6rBh+3bZ1QlX5GJvPDEqDdJRs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.WAF.WebApplicationFirewallMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.WAF.WebApplicationFirewallMiddleware.html",
+          "hash": "3K5Gq5AgyUUGfkb+iNN5d1EgwqPCxZ916yu/BAbSoPE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.WAF.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.WAF.html",
+          "hash": "pVQ1uGQxUReOKSJTOQzHLmtXQanaLHeOpYYyDPm/YpQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.html",
+          "hash": "bO04ALw93tuY6GnGdUJHaDROTCXBk5ER0GahLB2Ked4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.IAPIKeyAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.IAPIKeyAuthorizationService.html",
+          "hash": "G9sPE4foLW6ehXq7NJNROuRCpPn1ZLkDiSVfCYAFpX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.IAuthenticationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.IAuthenticationService.html",
+          "hash": "ZPVfIo2qXuOaB4Hcdj98P+cnmKWaCub/yW6hfPxFE+k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KeyCloak.IKeyCloakService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KeyCloak.IKeyCloakService.html",
+          "hash": "Bf3cynmOWSZm55aQGBIhpT066otiTkoDXp5xCpzIJd4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KeyCloak.IKeyCloakServiceSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KeyCloak.IKeyCloakServiceSettings.html",
+          "hash": "Oshf+b3vdnCqLA3SUxKWL5TkLTHx8U2sP0RudoYsKKk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KeyCloak.KeyCloakService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KeyCloak.KeyCloakService.html",
+          "hash": "Cehf7vXikaldj3m7OX/ePI1B7HWI5SuezXDXpfxH6wg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KeyCloak.KeyCloakServiceSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KeyCloak.KeyCloakServiceSettings.html",
+          "hash": "BY1u4wn0OBqd2/LIMWljZSEe9LjP8j0F3Ch60WsHu34="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KeyCloak.TransientKeyCloakService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KeyCloak.TransientKeyCloakService.html",
+          "hash": "K+ucWCsq0IdUf55R8UDUoZKqaNxhgeh22Fc3KE3X4tQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KeyCloak.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KeyCloak.html",
+          "hash": "jUpPDASueN3z7aoUYZWcU52kEW3FB1nZ+qJrs1asiH8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.html",
+          "hash": "tWMy7E8mX+nCvrmkojj2yx6cX/FRV0JAWnCRwoOsGK0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.APIServerConfiguration-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.APIServerConfiguration-3.html",
+          "hash": "4fQHlhnFe0kbyxNV0XclH2oyesWGiD6Ewkol+Y47bk8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.ApplicationConstants-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.ApplicationConstants-1.html",
+          "hash": "EITpbuIxUv03gdIFhUwM25Ang3fBEUGyyG0mYjtqPEA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.HTTP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.HTTP.html",
+          "hash": "v7SvsKAk5O5NEMINLX7sJznxNtSGz5NWa6Et4aF3JVY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.HTTPS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.HTTPS.html",
+          "hash": "TMj13USsbPNAP7DDDY7y5ksFIMp9qEjg7zFQnoFjo6Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.IPersistedAPIServerConfiguration-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.IPersistedAPIServerConfiguration-1.html",
+          "hash": "Y3ZEW2kq3Tv9ChgBaD9/CAmS9RpYI1YDtYEFLh+4wp4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.PersistedAPIServerConfiguration-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.PersistedAPIServerConfiguration-1.html",
+          "hash": "BdXyn4tvGIHLi4b3Cs4dYR4eZyi3x2/NcVJCi4s1LJQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.Protocol.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.Protocol.html",
+          "hash": "nGzQtmuyHzQnxZ4xYvPuI1UCdEaHlrCYTCI1Noagabs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.ServerConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.ServerConfiguration.html",
+          "hash": "Nv4zszbOzTewmI4Q/X4m/RJVC378iTU2/4Htf4w+NYY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.TLSCertificateInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.TLSCertificateInformation.html",
+          "hash": "CoqGPgr3vK88r+yblUAXzOD0lZXvW6VSz4vjgyKVrGE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.html",
+          "hash": "Tf5a4maZsN2zH4XF9QDYW9Iz0sqB63peSWyrruRVpnI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.FunctionalInformation-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.FunctionalInformation-3.html",
+          "hash": "SISlzw0JcXBGkKf1Uz3KlRCbyxu+AxAlUw6C19ij1aY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.IApplicationConstants-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.IApplicationConstants-1.html",
+          "hash": "cGHt0LcvUhClm8afhgPRs5eMl/4T/7ObDrfLVJ4huFA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.IApplicationConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.IApplicationConstants.html",
+          "hash": "tdz6NHouYlmOLpny/3o4aBsBqGN3kfrLHh2kwoTr9Eg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.IServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.IServiceConfiguration.html",
+          "hash": "hgdQaqIB6s2rU4M88A4rSlCoxt3xkBTHaSG2s5b5ejk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.InitializationInformation-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.InitializationInformation-3.html",
+          "hash": "MVmI2OeJwIbqYjZlvroxsrIuYjG3UdKSzuMHM0q7PSA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.html",
+          "hash": "FEl8Wp2481onBRRjD6EOCPIuB9fWAEpPz3532yqmQ1E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.GetLoggerVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.GetLoggerVisitor.html",
+          "hash": "A1IErBlC6ZS7UWIsCE6u1jztCRNH89OIjijYR216sEE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.GetProcolVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.GetProcolVisitor.html",
+          "hash": "K/Na2g8qeSwu8Cp+vYV2G+hyo/YY3Kb4xNSgiQRhPDE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.IBackgroundService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.IBackgroundService.html",
+          "hash": "skpKssonicr3xsfe4dksGiwNZg7xAdQp2bIp3UD/Tbo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.MvcOptionsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.MvcOptionsExtensions.html",
+          "hash": "Pp/Xmm5KPpPlTI5LtZcjHn5mK42oK/ETXRgLSdQQJrQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.RoutePrefixConvention.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.RoutePrefixConvention.html",
+          "hash": "gMvz7e049b90iIqxLzH1vPPqjoPzl+87GV1ioieZ+34="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.TestServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.TestServer.html",
+          "hash": "9o/m63XjUnSdjG41zYlZyUEO3y8JVSOI4BLEZ2WiyFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.Tools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.Tools.html",
+          "hash": "5ocI/0lJkU/y8fQZPYoXPSIbJgFNfxy6xz4UNZzzLY8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.html",
+          "hash": "4Vr4HWJMEzyG0XW8ePUs2iWd3FGjec+cLZKg7+eQ6oA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.html",
+          "hash": "lBJSefbt9lKkqqVRmnPTd6tSyjXfHN6MdxJML/wteXE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.Generic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.Generic.html",
+          "hash": "ydkfGN3Iac3S6BsBnh0afS7UzghEVcjKMrva47ovv0U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericToString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericToString.html",
+          "hash": "VIzl4bVzveeWSDZji91Ym7DXwKKR+44KIpiOpknt61g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.FlatAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.FlatAttribute.html",
+          "hash": "5t+oEPrcYkQVFMmxqj1skTvO7paoDkpDXqx5UmkMtMk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.FlatComplexObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.FlatComplexObject.html",
+          "hash": "RMAvjuV0ODq79XUir3sPu3vl9XSSrfSEedGtqnpvesY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.FlatEnumerable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.FlatEnumerable.html",
+          "hash": "2/twzSRzHcgWZ0RsWSQrIpVXbTFq7B+y307OgTAoqsI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.FlatPrimitive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.FlatPrimitive.html",
+          "hash": "HSNyCsH+giRwNsHRsTDbXWjhn37Yx2dZjBM+5cceIyI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.ConcreteSimplifiedObjects.html",
+          "hash": "7BJLZKx3QjSKXgOhMxRJXQuPH4I1Mb0bAl0zWvW0+cI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.FlatObject.IFlatObjectVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.FlatObject.IFlatObjectVisitor-1.html",
+          "hash": "QmWTntD8N4mDoB6k06F4feb9cpOewcG77uCQpNXh+Uc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.FlatObject.IFlatObjectVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.FlatObject.IFlatObjectVisitor.html",
+          "hash": "n61usl2G9WwAibq+2xmqOxK9T6CTLdLzWwkquH8pEF0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.FlatObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.FlatObject.html",
+          "hash": "6Dk1h1tILKIyzTERPLuUHatu0Dj3Wzjnu6rFiNqz/yM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.GRYSObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.GRYSObject.html",
+          "hash": "vAP7fWo68NkzMqq+tNEytP5oJQKaaWZtX/F5sRns6f4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.IGRYSerializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.IGRYSerializable.html",
+          "hash": "bCJmnIqrtLCeV95XL29j5hMztCx/51leL6SLgw5e72c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.SerializationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.SerializationConfiguration.html",
+          "hash": "SX3Dz4cq/0ocruoSyW1LvhqdXEYVcgrO8eNwJBqORK8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.GenericXMLSerializerHelper.html",
+          "hash": "Gsu0Pe9d23onrxZALr0q58CdiaRtNL7Oe2DfQLhidGw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculator.html",
+          "hash": "b8sIncut/xJyZcVNoxUW6HAdRBSdG5oTBkPwjgfITLI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.AbstractCustomComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.AbstractCustomComparer.html",
+          "hash": "aT4/08UX7h2bsfrzA+awF1crVn/C0nvA9XmLz20VHSg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.AttributeValueComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.AttributeValueComparer.html",
+          "hash": "6mLOCqCHfmlNlyboei7CbEzad0xvBvWIhOJICLqhzkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.DictionaryComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.DictionaryComparer.html",
+          "hash": "jRZD7XPU6dAmjBs7q1vLZ9Gi0lcLS41ysS2ecMpn1Qc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.EnumerableComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.EnumerableComparer.html",
+          "hash": "71laV2ucartbhW5/zw3yujGSqiKg+foU4OrVJkIp58s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.KeyValuePairComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.KeyValuePairComparer.html",
+          "hash": "5YYO2NrbZ4dYRqmkOTmG2mXOh6VxsxUJZjxiG8d8TEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.ListComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.ListComparer.html",
+          "hash": "NfngHgithZpA2xpdgAoc/zq2+74z7pIeScuAN19oWgw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.PrimitiveComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.PrimitiveComparer.html",
+          "hash": "e0ml7zu0qKGtQUomQJm5TYT/dUOkNQlHI+8r4yMqgl4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.SetComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.SetComparer.html",
+          "hash": "EA7DuFEBttCFdYi1DJyMoPHRzFUbMMTrWBisSYplrn8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.TupleComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.TupleComparer.html",
+          "hash": "iZ6Awz5cfECxqUtmO1g/9Ak5p6luWAQSdnNpZbWuglY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.TypeComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.TypeComparer.html",
+          "hash": "M5sQMEW+4bZlPd/Hj81dE1JoqG57AuiZjUncvZQEtk0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.CustomComparer.html",
+          "hash": "3r/0+sbY5ptyhG0GCPTohCO27v298cGgJTGJul7Ojdo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.GRYEqualityComparer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.GRYEqualityComparer-1.html",
+          "hash": "wEr23Uu5Dus3vTnHjhZZIeChD/dc77DPDmKKP8G6Soo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.PropertyEqualsCalculatorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.PropertyEqualsCalculatorConfiguration.html",
+          "hash": "6ox0pKVbehjsVr/qL9ilL1VdnW/jxmsaObHX0jvWZWU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.ReferenceEqualsComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.ReferenceEqualsComparer.html",
+          "hash": "b7PdtrogPyr8rYPwQS12R2x0Crm0TkbNh7n2QGD9nVo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyEqualsCalculatorHelper.html",
+          "hash": "vrNvY2Wcd4v66crF4Uzq3kxGxcJHCD5IHcWke+SfYdU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyIterator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyIterator.html",
+          "hash": "f++UCof9sPQfpl3ZU90FmRf7j9oM7TVDho/VAqVcGDg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyIteratorHelper.PropertyIteratorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyIteratorHelper.PropertyIteratorConfiguration.html",
+          "hash": "pAP+p3dv7vQ1I5eEqsGZmz8NclUbWcjTruLisqjD6Lc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyIteratorHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.PropertyIteratorHelper.html",
+          "hash": "ZkLluJf9rwD7bMBb7BS9sOU6czLsYH0WByeFli399jU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedObjectAnalysis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedObjectAnalysis.html",
+          "hash": "NGD/4ii6d/oqNF4PuGq1IZgJWF4d2F6f4RGn92+kR4I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedXMLSerialysis.GenericXMLSerializer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedXMLSerialysis.GenericXMLSerializer-1.html",
+          "hash": "3WuXzRcy9fjRnXhVzROlyWn1AMMKiIe+BnlJAcThxiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedXMLSerialysis.GenericXMLSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedXMLSerialysis.GenericXMLSerializer.html",
+          "hash": "rMxt290wvT2IFkUKBO8fuEizXhQOuqEO1TVSi3SUK0s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AdvancedXMLSerialysis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AdvancedXMLSerialysis.html",
+          "hash": "KAW6ol8Ap3H6fSCV2sGXcvbTyfaneQlhQDtoZu0asuM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.AES256.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.AES256.html",
+          "hash": "ClwKkPSWFhHqgEdFo4RPPxbqGU6rQ8AO5RkXk5DYP84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.AsymmetricEncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.AsymmetricEncryptionAlgorithm.html",
+          "hash": "Ce0rO23ZNvLNEwJfIOgrEzzmyKUMEkxSNue9kY4DdMs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.CommonEncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.CommonEncryptionAlgorithm.html",
+          "hash": "Gv16Wfz74uerzkDLJYrkKxsWZIXotB0gZHj88SXq3Ww="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.CryptographyAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.CryptographyAlgorithm.html",
+          "hash": "d1Sd+9Dph6iZG1Quab+DCCyCg1+l9EUNlaIDy45+4AE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.Curve.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.Curve.html",
+          "hash": "kdZUs5VpiqnnzXf97lmxchVcxotSbEPlVoLfol5NjgU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.ECC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.ECC.html",
+          "hash": "lO2dEOcCnl1SIWpjJZxH8rDuqwKJ0Btl80sbhYeNLoc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.EncryptUsingPropertiesAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.EncryptUsingPropertiesAlgorithm.html",
+          "hash": "GHsxm6jHQlTnYWOmUsFWnENZlaJEUL/rMl2eOD7b+Fw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.EncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.EncryptionAlgorithm.html",
+          "hash": "9NgRyQ/wB7CwohygQxgdmIceqXGVC1M9A/Q/O9qg0uo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.GRYBCryptoSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.GRYBCryptoSystem.html",
+          "hash": "mrT5ZW2VMku7OjQMt25GpSJmgO+zi90xgbV0eO0gaT4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.HashAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.HashAlgorithm.html",
+          "hash": "XINOjYZNSNVEvESm1+h/el9kLGUiCPggaLzCu+i4iSM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.OtherEncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.OtherEncryptionAlgorithm.html",
+          "hash": "MqOTPkSvkFXS03l8zaX3CeolsasTcL404CK/1yym+00="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.Point.html",
+          "hash": "VdvSCo8DiB1aElaA6LT/Tp+bnx/XUWC7YbpuBDqKEVE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.RSA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.RSA.html",
+          "hash": "QzS2sPTsfSCojj5ULHizW044pnfvHxzZCZ31FXn8fic="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.SHA256.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.SHA256.html",
+          "hash": "/XNE6oBhYtqhgPVPvII2lNkCPrQxootLISRYqIq2xY4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.SHA256PureCSharp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.SHA256PureCSharp.html",
+          "hash": "0O3W0wMO9OJC2Ga0+b2/4qXyoPxa1exvz1Qz73w2pLM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.SymmetricEncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.SymmetricEncryptionAlgorithm.html",
+          "hash": "/Ey57N5C8CC+WC8xq7ErXeLM8ffL+ideu5cCl1i1tTk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.html",
+          "hash": "XknU/88hphgFcAnfFJiN6Qc4VOWQ+9B2hDhDjapCmCk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.APIKeyLimitExceeded.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.APIKeyLimitExceeded.html",
+          "hash": "LhQ/Q5XwkHMuANx9tkbUSQ8R7f+dunxSOm+Dsr4X57o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.AssertionException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.AssertionException.html",
+          "hash": "yb4hod1yNrummsKGwyqkTQxcv0zEsQB5pVs0fgy5i3c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.DataSetNotAvailableException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.DataSetNotAvailableException.html",
+          "hash": "Sarr2y+UJYYPYX5iqe3GRii1Sva5jN0Sb0yW9ltAgK0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.InternalAlgorithmException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.InternalAlgorithmException.html",
+          "hash": "aYHoIJDfrr6waUimFavr+KNHJ5KejVhCeme13p/aTDw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.InvalidFormatException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.InvalidFormatException.html",
+          "hash": "BKm9EIQDHPvN/qehIWsPjio2yKkvmaaHK3d3pkezND0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.ProcessStartException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.ProcessStartException.html",
+          "hash": "4MfXgmHAoJxpyoTnBMwhpcINfOlJ7KyILvDdBtw97ms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.UnexpectedExitCodeException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.UnexpectedExitCodeException.html",
+          "hash": "88uf/lc46HtTXepnAEc7CCupZmvRB4ELM/ljnJc1Ryk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.html",
+          "hash": "Z8iGdf8pW3BC4d2BgykDHlJ6wTEHdZEQC6UqqMeSoug="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.ExecutionState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.ExecutionState.html",
+          "hash": "wb+7nCbHwYn253wf2QDKGSuMAZug/hE5oTGqkNmYLC8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutor.ExecutionFinishedHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutor.ExecutionFinishedHandler.html",
+          "hash": "7ldJa5nCRw5aw6c2T6YBd6Xj1xg+N7x2RcFN/QoFiFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutor.html",
+          "hash": "z/Y0HZgdB2yxOIz57jJ5Jt1dbBSCGQ6/2Ds9t6G/0qw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutorConfiguration.html",
+          "hash": "YdrP2C4wPjlg2bO8OhTYss8mw4figy377aZJgbAYl4M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.IWaitingStateVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.IWaitingStateVisitor-1.html",
+          "hash": "xQ/RCoA+2XV3ML8dqTJe8vLfAOcvF2GYOqSBasyIv7Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.IWaitingStateVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.IWaitingStateVisitor.html",
+          "hash": "NRtPgSjnzp35tSylFLDF1jBEfsOe18HBMVPOmOsktWk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.Verbosity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.Verbosity.html",
+          "hash": "Of3SIiWR3BSoRQLwCGfblf21L8iXZ93PY/fCFiJRZn4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingState.html",
+          "hash": "jgDOSAYsyXlfbF5wyIEMYLHrA7C3FmEoFAY/hv1ICkA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingStates.GetWaitingStateLabelVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingStates.GetWaitingStateLabelVisitor.html",
+          "hash": "g0NYVYI+1wZ8nzIG3Ei5BMXzB+dXmvRjjPDUENME31s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingStates.RunAsynchronously.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingStates.RunAsynchronously.html",
+          "hash": "hJ1d5E75WraqyyBHq6HfMVdEAJO9sFgnDf8Y4MgU6s8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingStates.RunSynchronously.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingStates.RunSynchronously.html",
+          "hash": "1ukdzPAj6j4gJ8aeRn1u+40E3n7lPaxDfrhpVQgssaM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingStates.html",
+          "hash": "rVrlX4RXL9sQdq0VvLFSdJX28QLbAmnaUDYLP37x9GI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.html",
+          "hash": "fk5tVChNIJsrimIhhN2uR9Zgt9duI4FHorN7R0U7Hxg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GeneralPurposeLogger.GeneralLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GeneralPurposeLogger.GeneralLogger.html",
+          "hash": "TMVjVrEAEyr0235nkoALToeuWK6cYtarN3YmKafJQc8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GeneralPurposeLogger.GeneralLoggerExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GeneralPurposeLogger.GeneralLoggerExtensions.html",
+          "hash": "Xrkk28jXqngrpIqu7svUdUF0uvdRSqLI2Iw025ZfhVU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GeneralPurposeLogger.IGeneralLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GeneralPurposeLogger.IGeneralLogger.html",
+          "hash": "1ua9VmXe/6C/H8FW/tBAmEv578PHQppvF3VVnhsuYdo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GeneralPurposeLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GeneralPurposeLogger.html",
+          "hash": "Na8nVmi9nhEhm8yAoszZxSf5Th3cOKXHbf9hyaMl5Qg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GenericAPIClient.GenericAPIClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GenericAPIClient.GenericAPIClient.html",
+          "hash": "0ZmVGNO14wHXVVoRAttqYXO/Tu9Iou7/Fexrike7kBQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GenericAPIClient.GenericAPIClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GenericAPIClient.GenericAPIClientConfiguration.html",
+          "hash": "lwukxu1IVjOxPMtnFZhKUswh7Ni/7muJsNACCeaIWSY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GenericAPIClient.IGenericAPIClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GenericAPIClient.IGenericAPIClient.html",
+          "hash": "ypeBN+yEh6BCLMJJ8BaFfXNhvLkRiA7AQTvqcmTua/o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GenericAPIClient.IGenericAPIClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GenericAPIClient.IGenericAPIClientConfiguration.html",
+          "hash": "7UN/ZaRvUwKDFVhHJ9EFOQpldDQaWzeB1etLH3lbW3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.GenericAPIClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.GenericAPIClient.html",
+          "hash": "H9OwGk0HAEcEkUy7oOIBnLujcLJ1V9yjhOnfBvFgPv0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Cycle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Cycle.html",
+          "hash": "hvV2XGs4ja3FxFCJL49lAL0c77vZ4QXT0Xw6rUUj6dU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.DirectedEdge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.DirectedEdge.html",
+          "hash": "pMyDLmFq1s/8x0KMJUjN4izGfjK81JPgzM9k7VctRXk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.DirectedGraph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.DirectedGraph.html",
+          "hash": "wmlU+PEF2+9fRhka5p3Gxl7igwacTQrCD0JsbXcCDok="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Edge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Edge.html",
+          "hash": "zWBnyrUCF6pkAZ6+fTVS5mk9QpYFKhDmUfioVQjVKYU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.InternalAlgorithmException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.InternalAlgorithmException.html",
+          "hash": "39QqTaX10UvWGfAN6XDUc5TTnPEvE6IKVTb5GQo0k1g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.InvalidEdgeTypeException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.InvalidEdgeTypeException.html",
+          "hash": "/PQLEk8Mqh3kf59uknn2BZD3njpW0Tz42A8y7TaVYH8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.InvalidGraphStructureException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.InvalidGraphStructureException.html",
+          "hash": "NldV72UaDqA2f0jQJv9foUOhofJBHkegh7Q06lpvA2E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.UnallowedOperationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.UnallowedOperationException.html",
+          "hash": "/YklHolz0SVn2ivMv7ysTHHgNnHCrM8+2ttsSvRXvlE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.html",
+          "hash": "yLlp+GR3Rgxu1iBuzfP6wy4voQEzwnPjj8SVIgk0X6s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Graph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Graph.html",
+          "hash": "45OQkbFM5BHWlnDtUzt8V896qp2D6grGO2gGjfPDALw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.IEdgeVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.IEdgeVisitor-1.html",
+          "hash": "BVMDzeaDniXV19o1cuPiLxvavFJYNiALSpxmn7ZiR4c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.IEdgeVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.IEdgeVisitor.html",
+          "hash": "i1UUrCV1UfL5uNQhDwbCe0nunKoLcxtnfjC4NX1T4HQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.IGraphVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.IGraphVisitor-1.html",
+          "hash": "L5AXgCbq/667a7/bFGtjm5MgoeSXqY8XMLO6jm4jHcY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.IGraphVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.IGraphVisitor.html",
+          "hash": "HdZmDuaxXglgVzRDyY8yHv44KqSo5m0hglNWscusT3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.UndirectedEdge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.UndirectedEdge.html",
+          "hash": "Wo3pxjFjSiam5//iuZmtp2iIA1ZDNtVBfkB+BBPP+mY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.UndirectedGraph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.UndirectedGraph.html",
+          "hash": "lqXs8GdlYG5mipNU3Rbuo1JIbHnpIGCucQxi/WrWtB4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Vertex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Vertex.html",
+          "hash": "cj+aBqHlg7QUgjvZNivNEQudihb6MGntTv2FwOYho3o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.html",
+          "hash": "ojE7Vr06GurLx/Qz7kEP/nBvAyvSGfHwPYU7kzcptOc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.ConcreteLogTargets.Console.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.ConcreteLogTargets.Console.html",
+          "hash": "XFA19DoEsQYutrShkjIzaP3ON+yW9SDD+9S0epW8hSc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.ConcreteLogTargets.LogFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.ConcreteLogTargets.LogFile.html",
+          "hash": "e3uFi+smu9iao0Qd2NZCI1API2DaLt6X01Gw8Q2+024="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.ConcreteLogTargets.Observer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.ConcreteLogTargets.Observer.html",
+          "hash": "03OLyESPs4mFV0xKDPsQO8HI2quY5JMiTZdiL321Tz8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.ConcreteLogTargets.Syslog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.ConcreteLogTargets.Syslog.html",
+          "hash": "PUWjkwqpI/mW/8+W9jG7/jBzOoIB9vcgbS8ELZlRC/4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.ConcreteLogTargets.WindowsEventLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.ConcreteLogTargets.WindowsEventLog.html",
+          "hash": "LH3ZoXWq+KPgxQFj3uTG+VYYlxJzesbOw8GhTsuu+3w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.ConcreteLogTargets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.ConcreteLogTargets.html",
+          "hash": "WiDtyGRAMQQLr5tFaB/0wVH6M8ZFHEN111GGXbin7Y8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.GRYLog.ErrorOccurredEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.GRYLog.ErrorOccurredEventHandler.html",
+          "hash": "IN0M8WI+U2uyWyrZh9TdKLREZygJ0fPvs73sfktnYCk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.GRYLog.NewLogItemEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.GRYLog.NewLogItemEventHandler.html",
+          "hash": "LkiO1Xx3QXbpnDMypx9dqZ6/DYMgKg7iRxfhe6VslXg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.GRYLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.GRYLog.html",
+          "hash": "KGrcuWlVPLiHNQAVXE1tylotyO/w2yxxgPpml/a4Uzc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.GRYLogConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.GRYLogConfiguration.html",
+          "hash": "02EYLPQRhoQG9t7Vbq75d0YKipmFSRmCM8+blaioc7k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.GRYLogLogFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.GRYLogLogFormat.html",
+          "hash": "IYdQIbYhMfup9PVKYbs1Z/OFttIgOVJTs8mYHlNXXG8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.GRYLogSubNamespaceProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.GRYLogSubNamespaceProvider.html",
+          "hash": "aPnE51EV1yBZVTbKSomlKjWy8ebhRCaE5F+9Zh1Mtgk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.GRYLogTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.GRYLogTarget.html",
+          "hash": "aYA8iMw+dQEnY2JSmGLxjrEYcCUdruNR5UaswS1a2S8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.IGRYLogConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.IGRYLogConfiguration.html",
+          "hash": "TDwkgT5/XyBg38W+Ltohjf8SRBCnzJUcjv+vgWZ5+Ew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.LogItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.LogItem.html",
+          "hash": "3cyxg8nfEaf3yeq3TFFM81HFNynDPqnJTZYGUPfE67M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.LoggedMessageTypeConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.LoggedMessageTypeConfiguration.html",
+          "hash": "P1zhff/w0YAdy2q4LuCC3eDrOpvfy7B3gQlJuADwXnA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Log.html",
+          "hash": "16Fof5vqfbhbJLVPt/F8nSnID0qKHSt8wU0HdrGib0Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ByteArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ByteArray.html",
+          "hash": "N6ihDH8N8XxH5t5umQ2aHKpSNDDZ7L1kmvNW/jh4Vdw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.CacheDictionaryStore-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.CacheDictionaryStore-2.html",
+          "hash": "ku4nLm5iaLWf5N3ktHilfVEGw5bgN5sDEMlFwfKSpU8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.CacheDictionaryStore-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.CacheDictionaryStore-3.html",
+          "hash": "W7lf1KSS0bZAeQKs2HhkoFKOzxcsnevqAXGlR4XEbCw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Captcha.CaptchaGenerationSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Captcha.CaptchaGenerationSettings.html",
+          "hash": "yTxGXyyVuZm0paiFXrqwK0zDrqMjeETsz6SDqmN16mI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Captcha.CaptchaInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Captcha.CaptchaInstance.html",
+          "hash": "M1SU5kutjFwMiOVuImRbr/BT2hCuUh07ko+Cu8+bEIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Captcha.CaptchaManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Captcha.CaptchaManager.html",
+          "hash": "4ra2W1/yLsJVWtwKAZU7A+TJlTWwoJOd+1Wd62u+yfg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Captcha.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Captcha.html",
+          "hash": "uYwsOczjwvSuvGV/zUGGEJN+fNhVKB2iDlzMQdx4kpk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ColorGradient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ColorGradient.html",
+          "hash": "yGIcVR3PsCBKsbZ3Dw2MG02NiTC4d/lXBTsqnsGqppA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ConsoleApplication.GRYConsoleApplication-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ConsoleApplication.GRYConsoleApplication-2.html",
+          "hash": "92C+Tkt6Un26UgYx8RU4v0uOFtF9d25i7RzdAEWdsmE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ConsoleApplication.GRYConsoleApplicationInitialInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ConsoleApplication.GRYConsoleApplicationInitialInformation.html",
+          "hash": "PXqjTlgcO7dQk18bBdK7aM6MY+2RajrfhLsy5kgoXAk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ConsoleApplication.ICommandlineParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ConsoleApplication.ICommandlineParameter.html",
+          "hash": "EmEXdmvSkmDxEASO/BPFOap6cW2NrYYp2DtW5pcyxOc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ConsoleApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ConsoleApplication.html",
+          "hash": "8F0Tk388UNoUdrxJXn0L9F53IFMcG26tH8rYZN2pLyo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ConsoleExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ConsoleExtensions.html",
+          "hash": "rIEKyK1r+hnsVsn8aKZ6wddnUbViSLg2woacA1RRe0g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.CustomDisposables.CustomDisposable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.CustomDisposables.CustomDisposable.html",
+          "hash": "j/cJw5guF5sHO+V+fBfAb7HjRl8WWKhzY36HcOly/oc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.CustomDisposables.TemporaryDirectory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.CustomDisposables.TemporaryDirectory.html",
+          "hash": "1r4kq/J0d1r74k3PrQ8Ug0g4RaRqTXgsuhRevcQxRQU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.CustomDisposables.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.CustomDisposables.html",
+          "hash": "jqsv+tHnszZKKpu3m5tkPhoCTRg4IympEBFmqyxW6nA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.EnumerableTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.EnumerableTools.html",
+          "hash": "qufblNw5mEAvG2EhEagP3+olDkDHwlcqihvlghOXmuA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Event.Argument-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Event.Argument-2.html",
+          "hash": "g6k/XDkek0Y1X/lKKT7sqehzXNLEbEjvx7a9jLVo/4s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Event.EventSender-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Event.EventSender-2.html",
+          "hash": "jrO17NKd3SatC9/CUzkzhd9fWq9GG8xmSh3qNxoFUN0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Event.IObserver-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Event.IObserver-2.html",
+          "hash": "NsbxY5SBa3MffWTMiuLu2JGZG7frUGxh1ChH/hTf49g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Event.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Event.html",
+          "hash": "tcqLIZc0+ncjGHNNz+n4T49eVg7umqR7BDit+c9fveY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ExtendedColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ExtendedColor.html",
+          "hash": "PwHnH3EbAYrBTF+kH0DCuLiRCTAyaXdDpBMIg6S4yWw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.FileCache-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.FileCache-2.html",
+          "hash": "nmSeOldB+LP7bGpf/3GT2U1GiGZ/jqRkB+nbkpOAO4Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.FilePath.AbsoluteFilePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.FilePath.AbsoluteFilePath.html",
+          "hash": "jP7Sy54RRwi1O3lf3Rq+Ea+KUxGFeaNwoagrhuvLJA0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.FilePath.AbstractFilePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.FilePath.AbstractFilePath.html",
+          "hash": "QjE7txwUpTIcANU2Mc0sPzr+JBw9gOyF72bW5jO7NJk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.FilePath.NoPathGiven.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.FilePath.NoPathGiven.html",
+          "hash": "3kW07vGTnLHqW9pjBKPBmwA8FDrD4+v6kZWsPghDMqg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.FilePath.RelativeFilePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.FilePath.RelativeFilePath.html",
+          "hash": "v/incaZGCKrk78pbFmPgkihQTi2n3CABUHrC3vaX39s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.FilePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.FilePath.html",
+          "hash": "a+947+TEAMno6pV8o9y5JT61XutW2hrOdz011sXk0GI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.FileSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.FileSelector.html",
+          "hash": "4JYW15HHEsDDs5Cy7rUMMpz6oxpJQHi+MZQk2JbI7ts="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.GRYDate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.GRYDate.html",
+          "hash": "B2UEJcyl757p2YvtlwZUBg8h3hcHtHAGIHI0sujVeZw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.GRYDateTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.GRYDateTime.html",
+          "hash": "WUQz3cPKRlT4hvykBGPgXV4fXe51OfqNeXuLwWfDVZE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.GRYMigration.ApplicationInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.GRYMigration.ApplicationInformation.html",
+          "hash": "VOh7Kehsi3YfoTivKSkoBJOy5sEFgQLQLvUKR2BGdHs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.GRYMigration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.GRYMigration.html",
+          "hash": "rn70dz22gg1h0NwVm6UZe0d/JRTtEsME7CdJZnyl9NQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.GRYTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.GRYTime.html",
+          "hash": "eW+Zh7Prp0F+hTNg/uHlYGlecH31ITVvfws/M6313pg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.GenericComparer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.GenericComparer-1.html",
+          "hash": "GFxttKm4LBTF5EZZF44xSmKa2oTHpDSGJvArJ7hbfqk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.GitCommandResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.GitCommandResult.html",
+          "hash": "xwrIQpzTqYMiWF+jhDTNwVmUfATGGbiDjG6l8tIgqbU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.GitTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.GitTools.html",
+          "hash": "ALj2F7GXc0D6C9HG/CUZMY5A3V8o6jlXnIMMewyi864="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Healthcheck.Healthcheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Healthcheck.Healthcheck.html",
+          "hash": "ow7OwP0ZuE/M84V5qfzzJLccOk9YPdXjwuTkB6nvoC8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Healthcheck.HealthcheckValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Healthcheck.HealthcheckValue.html",
+          "hash": "vcfqR6FhZDbN0tKkakTZzW5sDQaIR2gCgSs0pfcrXKs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Healthcheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Healthcheck.html",
+          "hash": "FBcsnsPvHpw0Yi4VXSBjMCMz52ZcUFZkvGgwE0MD5SI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.IProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.IProperty.html",
+          "hash": "aVjUTvYWMdkRIXJHL9NCBNr422vZpA3P+YAoZJg1KEo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ISimpleSerializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ISimpleSerializable.html",
+          "hash": "9C4uTENyuFTNCrJnzFtEU/XGh19GoCmxj4Dmwetb7Rs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.IdGenerator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.IdGenerator-1.html",
+          "hash": "DlfWc6UQFJ5C60Ci3IWNGBFe7obzhPAB4IcP0HEeePk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.IdGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.IdGenerator.html",
+          "hash": "ZALrNTk9y7GbGh5TeW1/w+0N6NxnsNyDcJ7TtVHzKkE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.IConfigurationFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.IConfigurationFormat.html",
+          "hash": "Dadhjc4/guOXqK+6khzYS/4ojOvR53X26bW7m2q8YSs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.IConfigurationFormatVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.IConfigurationFormatVisitor-1.html",
+          "hash": "2tY8lfI970kLGn0KXQekD93VFL1FAgKZMIDVn6EWIV0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.IConfigurationFormatVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.IConfigurationFormatVisitor.html",
+          "hash": "Suc5nJCykbhGlEdZHBQ/b7D/BRUya4RXibeZpQYV0Ek="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.JSON.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.JSON.html",
+          "hash": "MRe31rsc9wmR8zh3YppaiMBqV4BUU38tHqgebBCgMtg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.XML.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.XML.html",
+          "hash": "Y4IqIqZ9DVodyiCA8rYSTmM4FJ+aCVhsZiChRuLNtGY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.ConfigurationFormats.html",
+          "hash": "y/pWP39Z86bwc3TEtWMm6J9/IzeLmrD0axFl9zMYSe8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.MetaConfigurationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.MetaConfigurationManager.html",
+          "hash": "Q+9D0MQuCRJbzdWqac/NI0lReUJMuCJRWSWn+OV3yVA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.MetaConfigurationSettings-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.MetaConfigurationSettings-2.html",
+          "hash": "kNhS59kDTsv1YaGw/eR0ubwm+Bqn7ucToF8fKWFvC0o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MetaConfiguration.html",
+          "hash": "ynv6e59y2Na938GbXd3CFbRKhf9e9bN8VghAZ+eRjag="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.MicroTaskExecutorService-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.MicroTaskExecutorService-1.html",
+          "hash": "I9HCi1TaJFYRmkgOC2xQ9AMfypuP7hJyjOl1kDRLanY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Migration.MigrateInstanceInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Migration.MigrateInstanceInformation.html",
+          "hash": "5+c5T7y4KNOgOlnWEh20omdyuYOPl0Ns83rJMp0Bj74="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Migration.MigrationInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Migration.MigrationInformation.html",
+          "hash": "UnaiBvLpeLjCnH8khrFC4/3eAphBluwS7zAf6M64E+8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Migration.MigrationMetaInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Migration.MigrationMetaInformation.html",
+          "hash": "ai1k6stVt7/obr3kp7mcYT8d33CGHTTfEzXAPqxn8qs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Migration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Migration.html",
+          "hash": "bMni2fT8/8rDPCFof4x1y70RQE4TMKiPS/kQB+xSsbc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.NonPersistentInputHistoryList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.NonPersistentInputHistoryList.html",
+          "hash": "d4D8h8QDVUIIAk/acYdqCDMgHQQRZ94wf1TCJQQaGfk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.PercentValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.PercentValue.html",
+          "hash": "BnFNSXd92+djYZScc/2meWogfOzf/Gjjri4Ojf9jb0c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Property-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Property-1.html",
+          "hash": "gXrlAWtTWnjnSbRPTbzzWFc0bd8hYMZvwpHBDb/W2KY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.PropertyChangedEvengArgument-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.PropertyChangedEvengArgument-1.html",
+          "hash": "mfFeCeaHu7a3h5IC41bubJgv6tutU1C5gzXpCstBEkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ReadOnlyProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ReadOnlyProperty-1.html",
+          "hash": "ja2nm3JcF1w5XqSoQ+wb5VA6At7wKSukeuY/dmha5Gw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ReadOnlyProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ReadOnlyProperty.html",
+          "hash": "4krgO5FM7Zovgd7slmbnYOR65Pxm9BB2Y82a6PpctG4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ReferenceTuple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ReferenceTuple.html",
+          "hash": "dsKAB5hFp4vL8szNHPogFZMiaiOus2FTqnL9Et6Fi4M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.RegexString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.RegexString.html",
+          "hash": "9ygMB1nJqZPYWQOkffAEvNx9RZG7W5f7LkDmkJCbrno="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.ReplacementTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.ReplacementTools.html",
+          "hash": "sNpPxAhBcpvShZM6caUsreXietkC229faHqTOnvdK0o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Semaphore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Semaphore.html",
+          "hash": "zIjkhTDM/CtGPkvYs1OhXdzWoWY1uTcd0Lf+MPtR8SA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Similarity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Similarity.html",
+          "hash": "gSrvQ2omKU7PNjrPP82sMeXE5y4H717pG/+29i64Csw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.SimpleObjectPersistence-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.SimpleObjectPersistence-1.html",
+          "hash": "DS9kkubSDwT5lPSC1xyAUci+sUslgThGA843ZMOjZH4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.SpecialFileInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.SpecialFileInformation.html",
+          "hash": "NqPerclTzxJ7NB7wdRyuWIa3IbJx8d6O7RyCGtryrS0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.StringWriterWithEncoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.StringWriterWithEncoding.html",
+          "hash": "/VatkqEkqkzyhkQnBz/nPUOsNomrlAGjCxYBkn3gIUI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.SupervisedThread.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.SupervisedThread.html",
+          "hash": "oMWSWGxW/J24RzlorIjaQ+qnC1fFOaIkzF+zWKIYv0M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.ASCIITable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.ASCIITable.html",
+          "hash": "Rap9+NpxO5zKiwrQkSsOON3k86GPdcMThdamlPouQsg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.CSV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.CSV.html",
+          "hash": "vv9rrUDT7DuiCRqYuq/t+skJtKYioWBHAUAipcmNwgY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.DoubleLineTableCharacter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.DoubleLineTableCharacter.html",
+          "hash": "Nud99RIFJ8NcOYcpO280zInmSgjq11VVrb8btLX36lw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.HTMLTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.HTMLTable.html",
+          "hash": "FpT/JYnyUfP867BAYDbij7BBDFfGtBqJuZ5MWqixgXk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.ITableCharacter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.ITableCharacter.html",
+          "hash": "l16bIMdUdkb1V0K9/0Xn56F5vgbTkiGAb2YlGaG0+zE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.ITableOutputTypeVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.ITableOutputTypeVisitor-1.html",
+          "hash": "rNvMygzeeGnaJKML5L61nIG0AtUmLVPXL8HOEVckWhk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.ITableOutputTypeVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.ITableOutputTypeVisitor.html",
+          "hash": "GXBPEtLLR5U6OfBP+Dr3m0uW9zGLo2ZILemjKyFF2Xw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.OneLineTableCharacter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.OneLineTableCharacter.html",
+          "hash": "Ciboj1Tmal5nzZyuJ/M9dPAloSKzALD1vVmlOriOZiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.RoundLineTableCharacter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.RoundLineTableCharacter.html",
+          "hash": "Y+g0CaJ9AkWykh8PyddOnmh/dwvCyMfaoFvhNtDwZmY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.TableOutputType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.TableOutputType.html",
+          "hash": "dKDyPhiYgZBlVHjBOD9rPm22LtWXBt81DBGki5XgItc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TableGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TableGenerator.html",
+          "hash": "3H+5nZXZWY2cQAADpnSpwNjh/DUvxTYYwkxAkhhwFIQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TaskQueue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TaskQueue.html",
+          "hash": "uiXCCq7ftGVfJuICFpE/CYhBp6O4TA1PVztt8sGHE7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TempFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TempFile.html",
+          "hash": "sZ8xNquL2aAkw0ZNRbnvHQa+JWtHyIdWzAqwDLG5pGE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TempFolder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TempFolder.html",
+          "hash": "GoEJueyGh9gGFit549dx0jRAQVO7ySXubdjZOEzPzYc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TestKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TestKind.html",
+          "hash": "xGQ69pC3l3nmkFQ49t7y/0CkJXjU4/bZgyzh//1MhV4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TextTransformUtilities.FunctionsForCommonProjectStructure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TextTransformUtilities.FunctionsForCommonProjectStructure.html",
+          "hash": "JHRb7DcEtz2FfvrHyNCbw+zt8eYisH1kBPj00iFeRqs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.TextTransformUtilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.TextTransformUtilities.html",
+          "hash": "doAwbiXMl/NxLD4KNHnnpZmsRkBa81fUM+0cMDnP3b0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.UnorderedList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.UnorderedList-1.html",
+          "hash": "UTAr2uoBS8AxdH/ghqz63yo7SBnA2FXfjaw3LsICFgY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Updater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Updater.html",
+          "hash": "YVhPyftDHEUqvWLchi/4XBllcDX9R17U8WhzOE8P0K4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Utilities.Endianness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Utilities.Endianness.html",
+          "hash": "hBu6B0hZ+JH6burF672Nc+c4/fuM5Vkcj1pyy0TnAe0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Utilities.html",
+          "hash": "4GoWVO20W3M24p4JmXBTUlahb6wIC3vxP9WqNJQ1klM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Version.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Version.html",
+          "hash": "vvTXkGNQU0ATqngth0xUr6/LOVZDy8+Ca3zWflXSEKA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.Version3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.Version3.html",
+          "hash": "nBB55eZ3yHIYnoSDB71g+Fk2+vm0LHQ+PvlvxqgxPSs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.WriteableTuple-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.WriteableTuple-2.html",
+          "hash": "2jESusVvvUzr4eGQET5GBpgPQINUfn6RQ9Te07G8+QM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Miscellaneous.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Miscellaneous.html",
+          "hash": "p3rBFmp3F6lb6m0g8b9hYsZCKn7PB+NEutLh6kfJZSQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.Linux.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.Linux.html",
+          "hash": "kmK/LHoiOV7ZhA/p7Be4Ja58cEgf1mecXTjW8UQ9CYE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.OSX.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.OSX.html",
+          "hash": "Qz8sl7m1GpKMjpBTLhJTLjjElSL/SJrXdBVD5Bmk88g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.Windows.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.Windows.html",
+          "hash": "35V2mMZfoFmTp2uUIIqdf0NzojRPQMEg0GwqXSePrfo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.html",
+          "hash": "BCbTfKgRMZwpFBK3rNww6WsmaYniKyqLY64KuFsBQpg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.IOperatingSystemVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.IOperatingSystemVisitor-1.html",
+          "hash": "EcHAEqJnhpJTKJiXXS+F04ZmKHo0HL/umqGKbEN/5qw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.IOperatingSystemVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.IOperatingSystemVisitor.html",
+          "hash": "3cReVObU9N+dgbB3UFl29piJ5lHYe+y1NDcFxqr1+fw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.OperatingSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.OperatingSystem.html",
+          "hash": "qpNXJWP4cmOpyHW2ZKSEbSWd8+rZmxHsNkuB/dczKAg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.html",
+          "hash": "i2meqYCtsVr4/kZzcARL4XRcea8YeXsenYysBeh1Y70="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.M3UHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.M3UHandler.html",
+          "hash": "ckrzg5EbYzpUbQrGAmdiWwlKMj2ovDXJbw/mHoVwA9Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.PLSHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.PLSHandler.html",
+          "hash": "EJdDudIMygbP36E+PuyRASinpaxNDzpuQ71Hr+SuQKE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.PlaylistLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.PlaylistLoader.html",
+          "hash": "g8Q18h49aiSO+dz+rEvJkgXX7/hNZYXdWnTRAyrl674="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.html",
+          "hash": "qrNOe8hBBdx13rVlQqFyqMsvMNor2zFQlpxEc0DgSdM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.PlaylistFileHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.PlaylistFileHandler.html",
+          "hash": "cxog1tDv9OgLPaM4fGo5/1gZMLtJHgMF7KqqRXqLD1M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.html",
+          "hash": "Hx2H94A8MAH2DXfZqpTKF15ptPJ9FK4G7S+aJapwa7E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Streams.SimpleStreamMultiplier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Streams.SimpleStreamMultiplier.html",
+          "hash": "9Y60ZHExEGmaftdj9OnlgvhEy81meBKCXHVVl7XXkgI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Streams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Streams.html",
+          "hash": "uRfd7zqlmxzjU99Tul8uaDCUpo9dGDoEwz8YOsPDNX4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.Containee-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.Containee-1.html",
+          "hash": "4t8cyHw8bpyvEymogoHeQQQ83ADRSsDaraXrHugA1yA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.Container-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.Container-1.html",
+          "hash": "nDRA3MvYcGyAp//UBQiLyw9CDIzD3git4F8YroVu3qU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.ITreeItemVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.ITreeItemVisitor-1.html",
+          "hash": "5H1QswkXv/GiU053OZIv+vg7wv9/jDMia91lO4zLbAQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.ITreeItemVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.ITreeItemVisitor.html",
+          "hash": "oF5UpgNrjR4vfqm4p+nV4M4HBc65Uu5ZS6p5/C9L6yo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.TreeItem-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.TreeItem-1.html",
+          "hash": "gSseupOsxG5HNAUHr/RvTeOZ9LGXxUJo95LP/7G83XY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.html",
+          "hash": "STt6EKlIGuZfAEMUuk+N54OBwngrbTQtGJaQWxHB3eg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.KeyValuePair-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.KeyValuePair-2.html",
+          "hash": "51XTHXaDhgtMTDJxr3+sEIHDuCx/G0VqDNQKCXhap84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.SerializableDictionary-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.SerializableDictionary-2.html",
+          "hash": "xaUOCYYbVjh9ajJWX6C2NCoeZD/fU9S1Iqh7BqGS9z0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.SerializableKeyValuePair-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.SerializableKeyValuePair-2.html",
+          "hash": "TLsyqK92CSKw58cVrEnUF3ftcU5CFQvk68uwYIU5zt4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.SimpleGenericXMLSerializer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.SimpleGenericXMLSerializer-1.html",
+          "hash": "L7CUL8QhxiCpB34l3eFhkT/PExwlBKhzg/yCr6U3pys="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.html",
+          "hash": "gFQcwJDfPcBoSojgsYf4Y4+4gQ43iSnQU4HDuGNZlfI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/API/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "API/index.html",
+          "hash": "7C2O5LhHL1u8x9AvCuuJmP2jOlkgZvlC0xgHWcvrDHY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ReferenceContent/API/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/toc.html",
+          "hash": "JM8lnovdPkos9c68GOlalrFU0n76zyQ5pgGNpiiY8ME="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/AdvancedObjectAnalysis.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/AdvancedObjectAnalysis.html",
+          "hash": "Eyf7+4bwfq3+7AhBnXPWwYzzt7gGOxdWcuDqljSniz4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/ExternalProgramExecutorWrapper.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/ExternalProgramExecutorWrapper.html",
+          "hash": "78kmvgKceIzPigAWj6+zGy0jgleL4MX9DAjLiRDPSIo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/Introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/Introduction.html",
+          "hash": "5SEE7FUUNN1fMjtkWA0NWQY6fEUBZRxx0YumifyYAIs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/SimpleGenericXMLSerializer.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/SimpleGenericXMLSerializer.html",
+          "hash": "xuAHoldzDX8GL13jdOITscj9//NrmPANFGqXVJtttrs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/index.html",
+          "hash": "xLdt/lC4NiCDplhlgh42ooq+YFiDE8H0o4JOPbD1fkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ReferenceContent/Articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/toc.html",
+          "hash": "//LoWExbYtlhhK7bUN/nWdxPLzp6nQLdGNRe+GpritU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/Images/Example.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "CXU4y2hMvKlbJvvhakuNwFgOqZ/4X5ZEu21t/A76hQU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "ReferenceContent/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "L/T5B9CgyXpo1NZnHhXw0Ic+MuzzG3Idk8PmF6qZ8g4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 7,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 378,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
