@@ -1,0 +1,41 @@
+{
+  "source_base_path": "E:/Data/Projects/Common/ScriptCollectionBuild/Submodules/ScriptCollection/ScriptCollection/Other/Reference",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/RequirementsForCommonProjectStructure.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/RequirementsForCommonProjectStructure.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Hints.md",
+      "output": {
+        ".html": {
+          "relative_path": "Hints.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
