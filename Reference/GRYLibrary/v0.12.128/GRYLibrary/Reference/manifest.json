@@ -1,0 +1,5540 @@
+{
+  "source_base_path": "E:/Data/Projects/Common/GRYLibraryBuild/Submodules/GRYLibrary/GRYLibrary/Other/Reference",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.AbstractCustomComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.AbstractCustomComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.AttributeValueComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.AttributeValueComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.DictionaryComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.DictionaryComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.EnumerableComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.EnumerableComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.KeyValuePairComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.KeyValuePairComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.ListComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.ListComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.PrimitiveComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.PrimitiveComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.SetComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.SetComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.TupleComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.TupleComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.TypeComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.TypeComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.CustomComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.GRYEqualityComparer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.GRYEqualityComparer-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.PropertyEqualsCalculatorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.PropertyEqualsCalculatorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.ReferenceEqualsComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.ReferenceEqualsComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.EqualsHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.EqualsHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.Generic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.Generic.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.GenericToString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.GenericToString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.GenericXMLSerializer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.GenericXMLSerializer-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.GenericXMLSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.GenericXMLSerializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.PropertyEqualsCalculator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.PropertyEqualsCalculator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.PropertyIterator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.PropertyIterator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.PropertyIteratorHelper.PropertyIteratorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.PropertyIteratorHelper.PropertyIteratorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.PropertyIteratorHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.PropertyIteratorHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.FlatObject.IFlatObjectVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.FlatObject.IFlatObjectVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.FlatObject.IFlatObjectVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.FlatObject.IFlatObjectVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.FlatObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.FlatObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.GRYSObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.GRYSObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.IGRYSerializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.IGRYSerializable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.SerializationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.SerializationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.FlatAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.FlatAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.FlatComplexObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.FlatComplexObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.FlatEnumerable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.FlatEnumerable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.FlatPrimitive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.FlatPrimitive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.SimplifiedObjects.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.SerializeHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.SerializeHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.AOA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.AOA.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIClient.GenericAPIClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIClient.GenericAPIClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIClient.GenericAPIClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIClient.GenericAPIClientConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIClient.IGenericAPIClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIClient.IGenericAPIClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIClient.IGenericAPIClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIClient.IGenericAPIClientConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.APIServer-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.APIServer-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.BaseServices.ExternalService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.BaseServices.ExternalService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.BaseServices.IIteratingBackgroundService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.BaseServices.IIteratingBackgroundService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.BaseServices.IteratingBackgroundService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.BaseServices.IteratingBackgroundService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.BaseServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.BaseServices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Binder.DecimalModelBinder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Binder.DecimalModelBinder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Binder.GRYDateTimeMandatoryBinder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Binder.GRYDateTimeMandatoryBinder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Binder.GRYDateTimeOptionalBinder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Binder.GRYDateTimeOptionalBinder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Binder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Binder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonAuthenticationTypes.AccessToken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonAuthenticationTypes.AccessToken.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonAuthenticationTypes.RefreshToken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonAuthenticationTypes.RefreshToken.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonAuthenticationTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonAuthenticationTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.APIKey.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.KeyValuePair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.KeyValuePair.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.Role.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.Role.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.User.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonDBTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonDBTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesHostInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesHostInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.CommonRoutesInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.DoNotHostCommonRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.DoNotHostCommonRoutes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.HostCommonRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.HostCommonRoutes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesHostInformationVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesHostInformationVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesHostInformationVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesHostInformationVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.ICommonRoutesInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.CommonRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.CommonRoutes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.Development.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.Development.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.GRYEnvironment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.GRYEnvironment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.IEnvironmentVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.IEnvironmentVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.IEnvironmentVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.IEnvironmentVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.Productive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.Productive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.QualityCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.QualityCheck.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ConcreteEnvironments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ConcreteEnvironments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.Analysis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.Analysis.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.ExecutionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.ExecutionMode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.IExecutionModeVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.IExecutionModeVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.IExecutionModeVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.IExecutionModeVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.RunProgram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.RunProgram.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.TestRun.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.TestRun.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.Visitors.GetBaseFolder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.Visitors.GetBaseFolder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.Visitors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.Visitors.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.ExecutionModes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.ExecutionModes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MFA.IMFAMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MFA.IMFAMethod.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MFA.SecurityToken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MFA.SecurityToken.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MFA.TOTP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MFA.TOTP.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MFA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MFA.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.AbstractHostMaintenanceInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.AbstractHostMaintenanceInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.DoNotHostMaintenanceRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.DoNotHostMaintenanceRoutes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.HostMaintenanceRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.HostMaintenanceRoutes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.IMaintenanceRoutesHostInformationVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.IMaintenanceRoutesHostInformationVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.IMaintenanceRoutesHostInformationVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.IMaintenanceRoutesHostInformationVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.IMaintenanceRoutesInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.IMaintenanceRoutesInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.MaintenanceRoutesController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.MaintenanceRoutesController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.MaintenanceRoutesInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.MaintenanceRoutesInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MaintenanceRoutes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MaintenanceRoutes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AutS.AutSAMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AutS.AutSAMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AutS.AutSRConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AutS.AutSRConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AutS.AutSRMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AutS.AutSRMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AutS.IAutSRConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AutS.IAutSRConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AutS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AutS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AuthS.AuthSConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AuthS.AuthSConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AuthS.AuthSFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AuthS.AuthSFilter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AuthS.AuthSMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AuthS.AuthSMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AuthS.IAuthSConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AuthS.IAuthSConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.AuthS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.AuthS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Ex.DefaultExceptionHandlerMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Ex.DefaultExceptionHandlerMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.Ex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.Ex.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.General.GeneralMiddleware-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.General.GeneralMiddleware-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.General.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.General.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M01APIK.APIKeyValidatorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M01APIK.APIKeyValidatorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M01APIK.APIKeyValidatorFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M01APIK.APIKeyValidatorFilter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M01APIK.APIKeyValidatorMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M01APIK.APIKeyValidatorMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M01APIK.IAPIKeyValidatorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M01APIK.IAPIKeyValidatorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M01APIK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M01APIK.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M04CC.CCaptchaConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M04CC.CCaptchaConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M04CC.CCaptchaMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M04CC.CCaptchaMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M04CC.ICCaptchaConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M04CC.ICCaptchaConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M04CC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M04CC.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M05DLog.DRequestLoggingConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M05DLog.DRequestLoggingConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M05DLog.DRequestLoggingMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M05DLog.DRequestLoggingMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M05DLog.IDRequestLoggingConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M05DLog.IDRequestLoggingConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.M05DLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.M05DLog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.PreDAPIK.IPreDAPIKValidatorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.PreDAPIK.IPreDAPIKValidatorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.PreDAPIK.PreDAPIKValidatorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.PreDAPIK.PreDAPIKValidatorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.PreDAPIK.PreDAPIKValidatorMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.PreDAPIK.PreDAPIKValidatorMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Mid.PreDAPIK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Mid.PreDAPIK.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.AbstractMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.AbstractMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Aut.AuthorizationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Aut.AuthorizationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Aut.AuthorizationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Aut.AuthorizationMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Aut.IAuthorizationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Aut.IAuthorizationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Aut.ISupportAuthorizationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Aut.ISupportAuthorizationMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Aut.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Aut.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Auth.AuthenticationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Auth.AuthenticationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Auth.AuthenticationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Auth.AuthenticationMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Auth.IAuthenticationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Auth.IAuthenticationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Auth.ISupportAuthenticationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Auth.ISupportAuthenticationMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Auth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Auth.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Blacklist.BlacklistConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Blacklist.BlacklistConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Blacklist.BlacklistMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Blacklist.BlacklistMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Blacklist.IBlacklistConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Blacklist.IBlacklistConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Blacklist.ISupportBlacklistMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Blacklist.ISupportBlacklistMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Blacklist.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Blacklist.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Captcha.CaptchaConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Captcha.CaptchaConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Captcha.CaptchaMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Captcha.CaptchaMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Captcha.ICaptchaConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Captcha.ICaptchaConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Captcha.ISupportCaptchaMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Captcha.ISupportCaptchaMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Captcha.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Captcha.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Counter.IRequestCounterConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Counter.IRequestCounterConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Counter.ISupportRequestCounterMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Counter.ISupportRequestCounterMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Counter.RequestCounterConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Counter.RequestCounterConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Counter.RequestCounterMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Counter.RequestCounterMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Counter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Counter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.DDOS.DDOSProtectionConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.DDOS.DDOSProtectionConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.DDOS.DDOSProtectionMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.DDOS.DDOSProtectionMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.DDOS.IDDOSProtectionConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.DDOS.IDDOSProtectionConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.DDOS.ISupportDDOSProtectionMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.DDOS.ISupportDDOSProtectionMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.DDOS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.DDOS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Exception.ExceptionManagerConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Exception.ExceptionManagerConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Exception.ExceptionManagerMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Exception.ExceptionManagerMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Exception.IExceptionManagerConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Exception.IExceptionManagerConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Exception.ISupportExceptionManagerMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Exception.ISupportExceptionManagerMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Exception.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Exception.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.General.GeneralMiddlewareT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.General.GeneralMiddlewareT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.General.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.General.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.IMiddlewareConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.IMiddlewareConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.ISupportedMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.ISupportedMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Maint.IMaintenanceSiteConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Maint.IMaintenanceSiteConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Maint.ISupportMaintenanceSiteMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Maint.ISupportMaintenanceSiteMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Maint.MaintenanceSiteConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Maint.MaintenanceSiteConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Maint.MaintenanceSiteMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Maint.MaintenanceSiteMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Maint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Maint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Obfuscation.IObfuscationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Obfuscation.IObfuscationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Obfuscation.ISupportObfuscationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Obfuscation.ISupportObfuscationMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Obfuscation.ObfuscationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Obfuscation.ObfuscationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Obfuscation.ObfuscationMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Obfuscation.ObfuscationMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.Obfuscation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.Obfuscation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.RLog.IRequestLoggingConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.RLog.IRequestLoggingConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.RLog.ISupportRequestLoggingMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.RLog.ISupportRequestLoggingMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.RLog.RequestLoggingConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.RLog.RequestLoggingConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.RLog.RequestLoggingMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.RLog.RequestLoggingMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.RLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.RLog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.WAF.ISupportWebApplicationFirewallMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.WAF.ISupportWebApplicationFirewallMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.WAF.IWebApplicationFirewallConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.WAF.IWebApplicationFirewallConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.WAF.WebApplicationFirewallConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.WAF.WebApplicationFirewallConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.WAF.WebApplicationFirewallMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.WAF.WebApplicationFirewallMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.WAF.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.WAF.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.MidT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.MidT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.APIK.APIKeyAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.APIK.APIKeyAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.APIK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.APIK.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.IRoleBasedAuthorizationPersistence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.IRoleBasedAuthorizationPersistence.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.Prov.IAuthenticationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.Prov.IAuthenticationProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.Prov.IAuthenticationProviderConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.Prov.IAuthenticationProviderConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.IOpenIdConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.IOpenIdConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.IOpenIdProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.IOpenIdProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.OpenIdConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.OpenIdConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.OpenIdProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.OpenIdProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.Prov.OpenId.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.Prov.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.Prov.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.RoleBasedAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.RoleBasedAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Aut.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Aut.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Auth.A.IActionBasedAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Auth.A.IActionBasedAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Auth.A.IStaticActionBasedUserAuthorizationServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Auth.A.IStaticActionBasedUserAuthorizationServiceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Auth.A.StaticActionBasedUserAuthorizationServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Auth.A.StaticActionBasedUserAuthorizationServiceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Auth.A.StaticActionsUserAuthorizationService-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Auth.A.StaticActionsUserAuthorizationService-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Auth.A.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Auth.A.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Auth.R.IRoleBasedAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Auth.R.IRoleBasedAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Auth.R.StaticRoleBasedUserAuthorizationService-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Auth.R.StaticRoleBasedUserAuthorizationService-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Auth.R.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Auth.R.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Cerbos.CerbosAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Cerbos.CerbosAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Cerbos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Cerbos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredC.CookieService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredC.CookieService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredC.CookieServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredC.CookieServiceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredC.CookieTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredC.CookieTools.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredC.ICookieService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredC.ICookieService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredC.ICookieServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredC.ICookieServiceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredC.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredH.HeaderService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredH.HeaderService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredH.HeaderServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredH.HeaderServiceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredH.HeaderTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredH.HeaderTools.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredH.IHeaderService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredH.IHeaderService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredH.IHeaderServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredH.IHeaderServiceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.CredH.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.CredH.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Database.IGenericDatabaseInteractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Database.IGenericDatabaseInteractor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Database.MariaDBDatabaseInteractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Database.MariaDBDatabaseInteractor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Database.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Database.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.GDPR.IGDPRService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.GDPR.IGDPRService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.GDPR.PersonalData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.GDPR.PersonalData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.GDPR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.GDPR.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.IExternalService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.IExternalService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Init.IInitializationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Init.IInitializationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Init.NoInitializationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Init.NoInitializationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Init.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Init.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.IAPIKeyAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.IAPIKeyAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.IAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.IAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.ICredentialsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.ICredentialsProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.IHTTPCredentialsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.IHTTPCredentialsProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.ISimpleUserAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.ISimpleUserAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.ITimeService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.ITimeService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.IUserAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.IUserAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Interfaces.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KC.IKeyCloakService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KC.IKeyCloakService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KC.IKeyCloakServiceSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KC.IKeyCloakServiceSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KC.KeyCloakServiceSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KC.KeyCloakServiceSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KC.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KCAuth.IKeyCloakAuthenticationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KCAuth.IKeyCloakAuthenticationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KCAuth.IKeyCloakAuthenticationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KCAuth.IKeyCloakAuthenticationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KCAuth.IKeyCloakUserCreationServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KCAuth.IKeyCloakUserCreationServiceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakHTTPCredentialsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakHTTPCredentialsProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.KCAuth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.KCAuth.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.TS.TimeService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.TS.TimeService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.TS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.TS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Trans.AuthorizationTokenCredentialsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Trans.AuthorizationTokenCredentialsProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Trans.IAuthenticationServicePersistence-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Trans.IAuthenticationServicePersistence-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Trans.IDatabaseManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Trans.IDatabaseManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Trans.ITransientAuthenticationServicePersistence-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Trans.ITransientAuthenticationServicePersistence-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Trans.TransientAPIKeyAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Trans.TransientAPIKeyAuthorizationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Trans.TransientAuthenticationService-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Trans.TransientAuthenticationService-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Trans.TransientAuthenticationServicePersistence-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Trans.TransientAuthenticationServicePersistence-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.Trans.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.Trans.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.APIServerConfiguration-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.APIServerConfiguration-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.ApplicationConstants-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.ApplicationConstants-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.HTTP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.HTTP.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.HTTPS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.HTTPS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.IPersistedAPIServerConfiguration-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.IPersistedAPIServerConfiguration-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.PersistedAPIServerConfiguration-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.PersistedAPIServerConfiguration-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.Protocol.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.Protocol.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.ServerConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.ServerConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.TLSCertificateInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.TLSCertificateInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Configuration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.FunctionalInformation-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.FunctionalInformation-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.FunctionalInformationForWebApplication-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.FunctionalInformationForWebApplication-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.IApplicationConstants-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.IApplicationConstants-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.IApplicationConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.IApplicationConstants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.IServiceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.IServiceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.InitializationInformation-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.InitializationInformation-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Regulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Regulation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Regulations.GDPR.GDPRController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Regulations.GDPR.GDPRController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Regulations.GDPR.GDPRegulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Regulations.GDPR.GDPRegulation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Regulations.GDPR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Regulations.GDPR.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Regulations.IRegulationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Regulations.IRegulationService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.Regulations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.Regulations.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.ActionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.ActionAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.AuthenticateAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.AuthenticateAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.AuthorizeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.AuthorizeAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.Constants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.DatabaseTestFrameworkTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.DatabaseTestFrameworkTemplate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.GetLoggerVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.GetLoggerVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.GetProcolVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.GetProcolVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.MvcOptionsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.MvcOptionsExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.Request.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.Request.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.RoutePrefixConvention.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.RoutePrefixConvention.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.SimpleRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.SimpleRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.TestServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.TestServer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.Tools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.Tools.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Utilities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Verbs.IAPIServerCommandlineParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Verbs.IAPIServerCommandlineParameter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Verbs.JustRunCommandlineApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Verbs.JustRunCommandlineApplication.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Verbs.RunServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Verbs.RunServer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.Verbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.Verbs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.APIServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.APIServer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.AES256.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.AES256.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.Argon2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.Argon2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.AsymmetricEncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.AsymmetricEncryptionAlgorithm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.CommonEncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.CommonEncryptionAlgorithm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.CryptographyAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.CryptographyAlgorithm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.Curve.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.Curve.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.ECC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.ECC.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.EncryptUsingPropertiesAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.EncryptUsingPropertiesAlgorithm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.EncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.EncryptionAlgorithm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.GRYBCryptoSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.GRYBCryptoSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.HashAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.HashAlgorithm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.OtherEncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.OtherEncryptionAlgorithm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.Point.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.RSA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.RSA.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.SHA256.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.SHA256.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.SHA256PureCSharp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.SHA256PureCSharp.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.SymmetricEncryptionAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.SymmetricEncryptionAlgorithm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Crypto.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Crypto.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.APIKeyLimitExceededException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.APIKeyLimitExceededException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.AbortException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.AbortException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.AssertionException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.AssertionException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.BadRequestException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.BadRequestException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.BadUserContentException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.BadUserContentException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.CredentialsExpiredException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.CredentialsExpiredException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.DataSetNotAvailableException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.DataSetNotAvailableException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.DependencyNotAvailableException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.DependencyNotAvailableException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.InternalAlgorithmException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.InternalAlgorithmException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.InvalidActionException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.InvalidActionException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.InvalidCredentialsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.InvalidCredentialsException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.InvalidFormatException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.InvalidFormatException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.NotAuthorizedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.NotAuthorizedException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.NotFoundException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.NotFoundException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.ProcessStartException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.ProcessStartException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.ServiceNotAvailableException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.ServiceNotAvailableException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.UnexpectedExitCodeException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.UnexpectedExitCodeException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.UserFormattedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.UserFormattedException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Exceptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.ExecutionState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.ExecutionState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutor.ExecutionFinishedHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutor.ExecutionFinishedHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.ExternalProgramExecutorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.IWaitingStateVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.IWaitingStateVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.IWaitingStateVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.IWaitingStateVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.Verbosity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.Verbosity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingStates.GetWaitingStateLabelVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingStates.GetWaitingStateLabelVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingStates.RunAsynchronously.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingStates.RunAsynchronously.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingStates.RunSynchronously.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingStates.RunSynchronously.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.WaitingStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.WaitingStates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.ExecutePrograms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.ExecutePrograms.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Cycle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Cycle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.DirectedEdge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.DirectedEdge.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.DirectedGraph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.DirectedGraph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Edge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Edge.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.InternalAlgorithmException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.InternalAlgorithmException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.InvalidEdgeTypeException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.InvalidEdgeTypeException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.InvalidGraphStructureException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.InvalidGraphStructureException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.UnallowedOperationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.UnallowedOperationException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Exceptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Graph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Graph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.IEdgeVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.IEdgeVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.IEdgeVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.IEdgeVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.IGraphVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.IGraphVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.IGraphVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.IGraphVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.UndirectedEdge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.UndirectedEdge.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.UndirectedGraph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.UndirectedGraph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.Vertex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.Vertex.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Graph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Graph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.Console.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.Console.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.LogFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.LogFile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.Observer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.Observer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.Syslog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.Syslog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.WindowsEventLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.WindowsEventLog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.ConcreteLogTargets.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.GRYLog.ErrorOccurredEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.GRYLog.ErrorOccurredEventHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.GRYLog.NewLogItemEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.GRYLog.NewLogItemEventHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.GRYLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.GRYLog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.GRYLogConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.GRYLogConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.GRYLogLogFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.GRYLogLogFormat.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.GRYLogSubNamespaceProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.GRYLogSubNamespaceProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.GRYLogTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.GRYLogTarget.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.IGRYLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.IGRYLog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.IGRYLogConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.IGRYLogConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.LogItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.LogItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.LoggedMessageTypeConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.LoggedMessageTypeConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GRYLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GRYLogger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLogger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLoggerExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLoggerExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Logging.GeneralPurposeLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Logging.GeneralPurposeLogger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.AbstractSQLProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.AbstractSQLProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.BaseMock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.BaseMock.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ByteArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ByteArray.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.CacheDictionaryStore-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.CacheDictionaryStore-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.CacheDictionaryStore-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.CacheDictionaryStore-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Captcha.CaptchaGenerationSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Captcha.CaptchaGenerationSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Captcha.CaptchaInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Captcha.CaptchaInstance.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Captcha.CaptchaManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Captcha.CaptchaManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Captcha.ICaptchaManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Captcha.ICaptchaManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Captcha.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Captcha.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ColorGradient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ColorGradient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.GRYConsoleApplication-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.GRYConsoleApplication-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.GRYConsoleApplicationInitialInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.GRYConsoleApplicationInitialInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.Help.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.Help.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.ICommandlineParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.ICommandlineParameter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.IParserBaseVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.IParserBaseVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.IParserBaseVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.IParserBaseVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.Info.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.Info.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.InternalCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.InternalCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.ParserBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.ParserBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.VerbParser-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.VerbParser-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.VerbParser-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.VerbParser-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.VerbParser-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.VerbParser-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleApplication.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ConsoleExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ConsoleExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.CustomDisposables.CustomDisposable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.CustomDisposables.CustomDisposable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.CustomDisposables.TemporaryDirectory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.CustomDisposables.TemporaryDirectory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.CustomDisposables.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.CustomDisposables.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.EnumerableTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.EnumerableTools.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Event.Argument-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Event.Argument-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Event.EventSender-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Event.EventSender-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Event.IObserver-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Event.IObserver-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Event.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Event.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ExtendedColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ExtendedColor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.FileCache-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.FileCache-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.FilePath.AbsoluteFilePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.FilePath.AbsoluteFilePath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.FilePath.AbstractFilePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.FilePath.AbstractFilePath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.FilePath.NoPathGiven.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.FilePath.NoPathGiven.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.FilePath.RelativeFilePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.FilePath.RelativeFilePath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.FilePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.FilePath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.FileSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.FileSelector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.GRYDate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.GRYDate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.GRYDateTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.GRYDateTime.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.GRYTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.GRYTime.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.GenericComparer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.GenericComparer-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.GitCommandResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.GitCommandResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.GitTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.GitTools.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Healthcheck.Healthcheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Healthcheck.Healthcheck.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Healthcheck.HealthcheckValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Healthcheck.HealthcheckValue.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Healthcheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Healthcheck.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.IIdGenerator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.IIdGenerator-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.IProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.IProperty.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ISimpleSerializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ISimpleSerializable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.IdGenerator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.IdGenerator-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.IdGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.IdGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.IConfigurationFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.IConfigurationFormat.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.IConfigurationFormatVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.IConfigurationFormatVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.IConfigurationFormatVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.IConfigurationFormatVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.JSON.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.JSON.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.XML.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.XML.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.ConfigurationFormats.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.MetaConfigurationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.MetaConfigurationManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.MetaConfigurationSettings-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.MetaConfigurationSettings-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MetaConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MetaConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MicroTaskExecutorService-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MicroTaskExecutorService-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Migration.GRYMigrator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Migration.GRYMigrator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Migration.MigrationExecutionInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Migration.MigrationExecutionInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Migration.MigrationInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Migration.MigrationInstance.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Migration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Migration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.MultiSemaphore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.MultiSemaphore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.NonPersistentInputHistoryList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.NonPersistentInputHistoryList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.PercentValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.PercentValue.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Property-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Property-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.PropertyChangedEvengArgument-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.PropertyChangedEvengArgument-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ReadOnlyProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ReadOnlyProperty-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ReadOnlyProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ReadOnlyProperty.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ReferenceTuple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ReferenceTuple.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.RegexString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.RegexString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.ReplacementTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.ReplacementTools.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Semaphore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Semaphore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Similarity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Similarity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.SimpleObjectPersistence-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.SimpleObjectPersistence-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.SpecialFileInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.SpecialFileInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.StringWriterWithEncoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.StringWriterWithEncoding.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Strings.HTMLString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Strings.HTMLString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Strings.MultiLineString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Strings.MultiLineString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Strings.OneLineString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Strings.OneLineString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Strings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Strings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.SupervisedThread.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.SupervisedThread.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.ASCIITable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.ASCIITable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.CSV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.CSV.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.DoubleLineTableCharacter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.DoubleLineTableCharacter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.HTMLTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.HTMLTable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.ITableCharacter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.ITableCharacter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.ITableOutputTypeVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.ITableOutputTypeVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.ITableOutputTypeVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.ITableOutputTypeVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.OneLineTableCharacter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.OneLineTableCharacter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.RoundLineTableCharacter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.RoundLineTableCharacter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.TableOutputType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.TableOutputType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TableGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TableGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TaskQueue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TaskQueue.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TempFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TempFile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TempFolder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TempFolder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TestKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TestKind.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TextTransformUtilities.FunctionsForCommonProjectStructure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TextTransformUtilities.FunctionsForCommonProjectStructure.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.TextTransformUtilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.TextTransformUtilities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.UnorderedList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.UnorderedList-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Updater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Updater.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Utilities.Endianness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Utilities.Endianness.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Utilities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Version.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Version.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.Version3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.Version3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.WriteableTuple-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.WriteableTuple-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Misc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Misc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.Linux.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.Linux.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.OSX.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.OSX.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.Windows.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.Windows.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.ConcreteOperatingSystems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.IOperatingSystemVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.IOperatingSystemVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.IOperatingSystemVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.IOperatingSystemVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.OperatingSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.OperatingSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.OperatingSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.OperatingSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.M3UHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.M3UHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.PLSHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.PLSHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.PlaylistLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.PlaylistLoader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.ConcretePlaylistHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.PlaylistFileHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.PlaylistFileHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Playlists.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Playlists.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Streams.SimpleStreamMultiplier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Streams.SimpleStreamMultiplier.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Streams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Streams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.Containee-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.Containee-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.Container-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.Container-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.ITreeItemVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.ITreeItemVisitor-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.ITreeItemVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.ITreeItemVisitor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.TreeItem-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.TreeItem-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.Tree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.Tree.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.KeyValuePair-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.KeyValuePair-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.SerializableDictionary-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.SerializableDictionary-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.SerializableKeyValuePair-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.SerializableKeyValuePair-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.SimpleGenericXMLSerializer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.SimpleGenericXMLSerializer-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ReferenceContent/API/GRYLibrary.Core.XMLSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/GRYLibrary.Core.XMLSerializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/API/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "API/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ReferenceContent/API/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/toc.html"
+        },
+        ".json": {
+          "relative_path": "API/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/AdvancedObjectAnalysis.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/AdvancedObjectAnalysis.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/ExternalProgramExecutorWrapper.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/ExternalProgramExecutorWrapper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/Introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/Introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/SimpleGenericXMLSerializer.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/SimpleGenericXMLSerializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ReferenceContent/Articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "Articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Hints.md",
+      "output": {
+        ".html": {
+          "relative_path": "Hints.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "ReferenceContent/Images/Example.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Example.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ReferenceContent/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
