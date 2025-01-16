@@ -1,0 +1,1009 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class Tools
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class Tools
+   ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools">
+  
+  
+  <h1 id="GRYLibrary_Core_APIServer_Utilities_Tools" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools" class="text-break">Class Tools
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">Tools</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="GRYLibrary.Core.APIServer.Utilities.html">GRYLibrary.Core.APIServer.Utilities</a></h6>
+  <h6><strong>Assembly</strong>: GRYLibrary.dll</h6>
+  <h5 id="GRYLibrary_Core_APIServer_Utilities_Tools_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static class Tools</code></pre>
+  </div>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_CalculateNotAvailableResult_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.CalculateNotAvailableResult*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_CalculateNotAvailableResult_Microsoft_Extensions_Diagnostics_HealthChecks_HealthStatus_System_Boolean_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.CalculateNotAvailableResult(Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus,System.Boolean)">CalculateNotAvailableResult(HealthStatus, Boolean)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static HealthStatus CalculateNotAvailableResult(HealthStatus resultUntilNow, bool dependencyIsRequired)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus</span></td>
+        <td><span class="parametername">resultUntilNow</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">dependencyIsRequired</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_CheckHealthAsync_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.CheckHealthAsync*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_CheckHealthAsync_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_Func_System_ValueTuple_Microsoft_Extensions_Diagnostics_HealthChecks_HealthStatus_System_Collections_Generic_IEnumerable_System_String____Microsoft_Extensions_Diagnostics_HealthChecks_HealthCheckContext_System_Threading_CancellationToken_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.CheckHealthAsync(GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger,System.Func{System.ValueTuple{Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus,System.Collections.Generic.IEnumerable{System.String}}},Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckContext,System.Threading.CancellationToken)">CheckHealthAsync(IGeneralLogger, Func&lt;(HealthStatus, IEnumerable&lt;String&gt;)&gt;, HealthCheckContext, CancellationToken)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static Task&lt;HealthCheckResult&gt; CheckHealthAsync(IGeneralLogger logger, Func&lt;(HealthStatus, IEnumerable&lt;string&gt;)&gt; check, HealthCheckContext context, CancellationToken cancellationToken)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html">IGeneralLogger</a></td>
+        <td><span class="parametername">logger</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.ValueTuple</span>&lt;<span class="xref">Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus</span>, <span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<span class="xref">System.String</span>&gt;&gt;&gt;</td>
+        <td><span class="parametername">check</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Threading.CancellationToken</span></td>
+        <td><span class="parametername">cancellationToken</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Threading.Tasks.Task</span>&lt;<span class="xref">Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckResult</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_CheckService_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.CheckService*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_CheckService_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_String_GRYLibrary_Core_APIServer_Services_IExternalService_Microsoft_Extensions_Diagnostics_HealthChecks_HealthStatus__System_Collections_Generic_IList_System_String__System_Boolean_System_Boolean_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.CheckService(GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger,System.String,GRYLibrary.Core.APIServer.Services.IExternalService,Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus@,System.Collections.Generic.IList{System.String},System.Boolean,System.Boolean)">CheckService(IGeneralLogger, String, IExternalService, ref HealthStatus, IList&lt;String&gt;, Boolean, Boolean)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void CheckService(IGeneralLogger logger, string name, IExternalService service, ref HealthStatus result, IList&lt;string&gt; messages, bool logIfNotAvailable, bool serviceIsRequired)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html">IGeneralLogger</a></td>
+        <td><span class="parametername">logger</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">name</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Services.IExternalService.html">IExternalService</a></td>
+        <td><span class="parametername">service</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus</span></td>
+        <td><span class="parametername">result</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IList</span>&lt;<span class="xref">System.String</span>&gt;</td>
+        <td><span class="parametername">messages</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">logIfNotAvailable</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">serviceIsRequired</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_CheckService_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.CheckService*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_CheckService_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_String_System_Boolean_System_Func_System_Boolean__Microsoft_Extensions_Diagnostics_HealthChecks_HealthStatus__System_Collections_Generic_IList_System_String__System_Boolean_System_Boolean_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.CheckService(GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger,System.String,System.Boolean,System.Func{System.Boolean},Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus@,System.Collections.Generic.IList{System.String},System.Boolean,System.Boolean)">CheckService(IGeneralLogger, String, Boolean, Func&lt;Boolean&gt;, ref HealthStatus, IList&lt;String&gt;, Boolean, Boolean)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void CheckService(IGeneralLogger logger, string name, bool serviceIsNull, Func&lt;bool&gt; isAvailable, ref HealthStatus result, IList&lt;string&gt; messages, bool logIfNotAvailable, bool serviceIsRequired)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html">IGeneralLogger</a></td>
+        <td><span class="parametername">logger</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">name</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">serviceIsNull</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.Boolean</span>&gt;</td>
+        <td><span class="parametername">isAvailable</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus</span></td>
+        <td><span class="parametername">result</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IList</span>&lt;<span class="xref">System.String</span>&gt;</td>
+        <td><span class="parametername">messages</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">logIfNotAvailable</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">serviceIsRequired</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_ConnectToDatabase_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.ConnectToDatabase*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_ConnectToDatabase_System_Action_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_String_System_String__" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.ConnectToDatabase(System.Action,GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger,System.String,System.String@)">ConnectToDatabase(Action, IGeneralLogger, String, out String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool ConnectToDatabase(Action connectAction, IGeneralLogger logger, string adaptedConnectionString, out string notConnectionReason)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Action</span></td>
+        <td><span class="parametername">connectAction</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html">IGeneralLogger</a></td>
+        <td><span class="parametername">logger</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">adaptedConnectionString</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">notConnectionReason</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_ConnectToDatabase_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.ConnectToDatabase*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_ConnectToDatabase_System_Action_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_String_System_TimeSpan_System_String__" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.ConnectToDatabase(System.Action,GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger,System.String,System.TimeSpan,System.String@)">ConnectToDatabase(Action, IGeneralLogger, String, TimeSpan, out String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool ConnectToDatabase(Action connectAction, IGeneralLogger logger, string adaptedConnectionString, TimeSpan timeout, out string notConnectionReason)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Action</span></td>
+        <td><span class="parametername">connectAction</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html">IGeneralLogger</a></td>
+        <td><span class="parametername">logger</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">adaptedConnectionString</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.TimeSpan</span></td>
+        <td><span class="parametername">timeout</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">notConnectionReason</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_ConnectToDatabaseWrapper_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.ConnectToDatabaseWrapper*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_ConnectToDatabaseWrapper_System_Action_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_String_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.ConnectToDatabaseWrapper(System.Action,GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger,System.String)">ConnectToDatabaseWrapper(Action, IGeneralLogger, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void ConnectToDatabaseWrapper(Action connectAction, IGeneralLogger logger, string adaptedConnectionString)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Action</span></td>
+        <td><span class="parametername">connectAction</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html">IGeneralLogger</a></td>
+        <td><span class="parametername">logger</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">adaptedConnectionString</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_ExecuteNextMiddlewareAndGetRequestAndResponseBody_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.ExecuteNextMiddlewareAndGetRequestAndResponseBody*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_ExecuteNextMiddlewareAndGetRequestAndResponseBody_Microsoft_AspNetCore_Http_HttpContext_Microsoft_AspNetCore_Http_RequestDelegate_System_Func_System_Byte___System_Byte____System_Func_System_Byte___System_Byte____" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.ExecuteNextMiddlewareAndGetRequestAndResponseBody(Microsoft.AspNetCore.Http.HttpContext,Microsoft.AspNetCore.Http.RequestDelegate,System.Func{System.Byte[],System.Byte[]},System.Func{System.Byte[],System.Byte[]})">ExecuteNextMiddlewareAndGetRequestAndResponseBody(HttpContext, RequestDelegate, Func&lt;Byte[], Byte[]&gt;, Func&lt;Byte[], Byte[]&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static (byte[] requestBody, byte[] responseBody) ExecuteNextMiddlewareAndGetRequestAndResponseBody(HttpContext context, RequestDelegate next, Func&lt;byte[], byte[]&gt; requestBodyUpdater = null, Func&lt;byte[], byte[]&gt; responseBodyUpdater = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.AspNetCore.Http.HttpContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.AspNetCore.Http.RequestDelegate</span></td>
+        <td><span class="parametername">next</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.Byte</span>[], <span class="xref">System.Byte</span>[]&gt;</td>
+        <td><span class="parametername">requestBodyUpdater</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.Byte</span>[], <span class="xref">System.Byte</span>[]&gt;</td>
+        <td><span class="parametername">responseBodyUpdater</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.ValueTuple</span>&lt;<span class="xref">System.Byte</span>[], <span class="xref">System.Byte</span>[]&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_GetDefaultDomainValue_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.GetDefaultDomainValue*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_GetDefaultDomainValue_System_String_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.GetDefaultDomainValue(System.String)">GetDefaultDomainValue(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static string GetDefaultDomainValue(string codeUnitName)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">codeUnitName</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_GetHashAlgorithm_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.GetHashAlgorithm*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_GetHashAlgorithm_System_String_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.GetHashAlgorithm(System.String)">GetHashAlgorithm(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static HashAlgorithm GetHashAlgorithm(string passwordHashAlgorithmIdentifier)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">passwordHashAlgorithmIdentifier</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Crypto.HashAlgorithm.html">HashAlgorithm</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_GetRequestBody_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.GetRequestBody*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_GetRequestBody_Microsoft_AspNetCore_Http_HttpRequest_System_Func_System_Byte___System_Byte____" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.GetRequestBody(Microsoft.AspNetCore.Http.HttpRequest,System.Func{System.Byte[],System.Byte[]})">GetRequestBody(HttpRequest, Func&lt;Byte[], Byte[]&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static byte[] GetRequestBody(HttpRequest request, Func&lt;byte[], byte[]&gt; requestBodyUpdater = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.AspNetCore.Http.HttpRequest</span></td>
+        <td><span class="parametername">request</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.Byte</span>[], <span class="xref">System.Byte</span>[]&gt;</td>
+        <td><span class="parametername">requestBodyUpdater</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_GetUser_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.GetUser*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_GetUser_System_Security_Claims_ClaimsPrincipal_GRYLibrary_Core_APIServer_Services_Interfaces_IAuthenticationService_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.GetUser(System.Security.Claims.ClaimsPrincipal,GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService)">GetUser(ClaimsPrincipal, IAuthenticationService)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static User GetUser(ClaimsPrincipal principal, IAuthenticationService authenticationService)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Security.Claims.ClaimsPrincipal</span></td>
+        <td><span class="parametername">principal</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService.html">IAuthenticationService</a></td>
+        <td><span class="parametername">authenticationService</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.CommonDBTypes.User.html">User</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_IsAPIDocumentationRequest_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.IsAPIDocumentationRequest*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_IsAPIDocumentationRequest_Microsoft_AspNetCore_Http_HttpContext_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.IsAPIDocumentationRequest(Microsoft.AspNetCore.Http.HttpContext)">IsAPIDocumentationRequest(HttpContext)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool IsAPIDocumentationRequest(HttpContext context)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.AspNetCore.Http.HttpContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_IsMaintenanceRequest_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.IsMaintenanceRequest*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_IsMaintenanceRequest_Microsoft_AspNetCore_Http_HttpContext_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.IsMaintenanceRequest(Microsoft.AspNetCore.Http.HttpContext)">IsMaintenanceRequest(HttpContext)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool IsMaintenanceRequest(HttpContext context)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.AspNetCore.Http.HttpContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_RunAPIServer_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.RunAPIServer*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_RunAPIServer__3_System_String_System_String_GRYLibrary_Core_Misc_Version3_GRYLibrary_Core_APIServer_ConcreteEnvironments_GRYEnvironment_GRYLibrary_Core_APIServer_ExecutionModes_ExecutionMode_System_String___System_Action_GRYLibrary_Core_APIServer_Settings_APIServerConfiguration___1___2___0___" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.RunAPIServer``3(System.String,System.String,GRYLibrary.Core.Misc.Version3,GRYLibrary.Core.APIServer.ConcreteEnvironments.GRYEnvironment,GRYLibrary.Core.APIServer.ExecutionModes.ExecutionMode,System.String[],System.Action{GRYLibrary.Core.APIServer.Settings.APIServerConfiguration{``1,``2,``0}})">RunAPIServer&lt;GCodeUnitSpecificCommandlineParameter, GCodeUnitSpecificConstants, GCodeUnitSpecificConfiguration&gt;(String, String, Version3, GRYEnvironment, ExecutionMode, String[], Action&lt;APIServerConfiguration&lt;GCodeUnitSpecificConstants, GCodeUnitSpecificConfiguration, GCodeUnitSpecificCommandlineParameter&gt;&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static int RunAPIServer&lt;GCodeUnitSpecificCommandlineParameter, GCodeUnitSpecificConstants, GCodeUnitSpecificConfiguration&gt;(string codeUnitName, string codeUnitDescription, Version3 codeUnitVersion, GRYEnvironment environmentTargetType, ExecutionMode executionMode, string[] commandlineArguments, Action&lt;APIServerConfiguration&lt;GCodeUnitSpecificConstants, GCodeUnitSpecificConfiguration, GCodeUnitSpecificCommandlineParameter&gt;&gt; initializer)
+    where GCodeUnitSpecificCommandlineParameter : class, IAPIServerCommandlineParameter, new()
+    where GCodeUnitSpecificConstants : new()
+    where GCodeUnitSpecificConfiguration : new()</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">codeUnitName</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">codeUnitDescription</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Misc.Version3.html">Version3</a></td>
+        <td><span class="parametername">codeUnitVersion</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.ConcreteEnvironments.GRYEnvironment.html">GRYEnvironment</a></td>
+        <td><span class="parametername">environmentTargetType</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.ExecutionModes.ExecutionMode.html">ExecutionMode</a></td>
+        <td><span class="parametername">executionMode</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span>[]</td>
+        <td><span class="parametername">commandlineArguments</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Action</span>&lt;<a class="xref" href="GRYLibrary.Core.APIServer.Settings.APIServerConfiguration-3.html">APIServerConfiguration</a>&lt;GCodeUnitSpecificConstants, GCodeUnitSpecificConfiguration, GCodeUnitSpecificCommandlineParameter&gt;&gt;</td>
+        <td><span class="parametername">initializer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">GCodeUnitSpecificCommandlineParameter</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="parametername">GCodeUnitSpecificConstants</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="parametername">GCodeUnitSpecificConfiguration</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Utilities_Tools_TryGetAuthentication_" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.TryGetAuthentication*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Utilities_Tools_TryGetAuthentication_GRYLibrary_Core_APIServer_Services_Interfaces_ICredentialsProvider_GRYLibrary_Core_APIServer_Services_Interfaces_IAuthenticationService_Microsoft_AspNetCore_Http_HttpContext_System_Security_Claims_ClaimsPrincipal__System_String__" data-uid="GRYLibrary.Core.APIServer.Utilities.Tools.TryGetAuthentication(GRYLibrary.Core.APIServer.Services.Interfaces.ICredentialsProvider,GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService,Microsoft.AspNetCore.Http.HttpContext,System.Security.Claims.ClaimsPrincipal@,System.String@)">TryGetAuthentication(ICredentialsProvider, IAuthenticationService, HttpContext, out ClaimsPrincipal, out String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool TryGetAuthentication(ICredentialsProvider credentialsProvider, IAuthenticationService authenticationService, HttpContext context, out ClaimsPrincipal principal, out string accessToken)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Services.Interfaces.ICredentialsProvider.html">ICredentialsProvider</a></td>
+        <td><span class="parametername">credentialsProvider</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService.html">IAuthenticationService</a></td>
+        <td><span class="parametername">authenticationService</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.AspNetCore.Http.HttpContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Security.Claims.ClaimsPrincipal</span></td>
+        <td><span class="parametername">principal</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">accessToken</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
