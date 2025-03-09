@@ -4,5 +4,15 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"terminal.integrated.cwd": "${workspaceFolder}",
+		"window.title": "${dirty} ${rootName}",
+		"spellright.documentTypes": [
+			"markdown",
+			"plaintext"
+		],
+		"spellright.language": [
+			"en"
+		]
+    }
 }
