@@ -1,0 +1,606 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class KeyCloakAuthenticationService&lt;UserType&gt;
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class KeyCloakAuthenticationService&lt;UserType&gt;
+   ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1">
+  
+  
+  <h1 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1" class="text-break">Class KeyCloakAuthenticationService&lt;UserType&gt;
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html">KeyCloakAuthenticationService</a></div>
+    <div class="level2"><span class="xref">KeyCloakAuthenticationService&lt;UserType&gt;</span></div>
+  </div>
+  <div class="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.IKeyCloakAuthenticationService.html">IKeyCloakAuthenticationService</a></div>
+    <div><a class="xref" href="GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService-1.html">IAuthenticationService</a>&lt;UserType&gt;</div>
+    <div><a class="xref" href="GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService.html">IAuthenticationService</a></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_AccessTokenIsValid_System_String_">KeyCloakAuthenticationService.AccessTokenIsValid(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_EnsureRoleDoesNotExist_System_String_">KeyCloakAuthenticationService.EnsureRoleDoesNotExist(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_EnsureRoleExists_System_String_">KeyCloakAuthenticationService.EnsureRoleExists(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_EnsureUserHasRole_System_String_System_String_">KeyCloakAuthenticationService.EnsureUserHasRole(String, String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_EnsureUserDoesNotHaveRole_System_String_System_String_">KeyCloakAuthenticationService.EnsureUserDoesNotHaveRole(String, String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetAllUser">KeyCloakAuthenticationService.GetAllUser()</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetRolesOfUser_System_String_">KeyCloakAuthenticationService.GetRolesOfUser(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetIdOfUser_System_String_">KeyCloakAuthenticationService.GetIdOfUser(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetUser_System_String_">KeyCloakAuthenticationService.GetUser(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetUserName_System_String_">KeyCloakAuthenticationService.GetUserName(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_RoleExists_System_String_">KeyCloakAuthenticationService.RoleExists(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_Hash_System_String_">KeyCloakAuthenticationService.Hash(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_Login_System_String_System_String_">KeyCloakAuthenticationService.Login(String, String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_LogoutEverywhere_System_String_">KeyCloakAuthenticationService.LogoutEverywhere(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_Register_System_String_System_String_">KeyCloakAuthenticationService.Register(String, String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_RemoveUser_System_String_">KeyCloakAuthenticationService.RemoveUser(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_UserExists_System_String_">KeyCloakAuthenticationService.UserExists(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_UserHasRole_System_String_System_String_">KeyCloakAuthenticationService.UserHasRole(String, String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_AddUser_GRYLibrary_Core_APIServer_CommonDBTypes_User_">KeyCloakAuthenticationService.AddUser(User)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetRoleByName_System_String_">KeyCloakAuthenticationService.GetRoleByName(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetUserByName_System_String_">KeyCloakAuthenticationService.GetUserByName(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetUserByAccessToken_System_String_">KeyCloakAuthenticationService.GetUserByAccessToken(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_AddRole_System_String_">KeyCloakAuthenticationService.AddRole(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_UserExistsByName_System_String_">KeyCloakAuthenticationService.UserExistsByName(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_UpdateRole_GRYLibrary_Core_APIServer_CommonDBTypes_Role_">KeyCloakAuthenticationService.UpdateRole(Role)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_Logout_System_String_">KeyCloakAuthenticationService.Logout(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_Logout_System_Security_Claims_ClaimsPrincipal_">KeyCloakAuthenticationService.Logout(ClaimsPrincipal)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService.html#GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_GetRoles_System_Security_Claims_ClaimsPrincipal_">KeyCloakAuthenticationService.GetRoles(ClaimsPrincipal)</a>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.html">GRYLibrary.Core.APIServer.Services.KCAuth</a></h6>
+  <h6><strong>Assembly</strong>: GRYLibrary.dll</h6>
+  <h5 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class KeyCloakAuthenticationService&lt;UserType&gt; : KeyCloakAuthenticationService, IKeyCloakAuthenticationService, IAuthenticationService&lt;UserType&gt;, IAuthenticationService where UserType : User</code></pre>
+  </div>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">UserType</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1__ctor_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.#ctor*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1__ctor_GRYLibrary_Core_APIServer_Services_KC_IKeyCloakService_GRYLibrary_Core_APIServer_Services_Interfaces_IHTTPCredentialsProvider_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.#ctor(GRYLibrary.Core.APIServer.Services.KC.IKeyCloakService,GRYLibrary.Core.APIServer.Services.Interfaces.IHTTPCredentialsProvider)">KeyCloakAuthenticationService(IKeyCloakService, IHTTPCredentialsProvider)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public KeyCloakAuthenticationService(IKeyCloakService keyCloakService, IHTTPCredentialsProvider httpCredentialsProvider)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Services.KC.IKeyCloakService.html">IKeyCloakService</a></td>
+        <td><span class="parametername">keyCloakService</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Services.Interfaces.IHTTPCredentialsProvider.html">IHTTPCredentialsProvider</a></td>
+        <td><span class="parametername">httpCredentialsProvider</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_AddUserTyped_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.AddUserTyped*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_AddUserTyped__0_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.AddUserTyped(`0)">AddUserTyped(UserType)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AddUserTyped(UserType user)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">UserType</span></td>
+        <td><span class="parametername">user</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_GetAllUserTyped_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.GetAllUserTyped*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_GetAllUserTyped" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.GetAllUserTyped">GetAllUserTyped()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ISet&lt;UserType&gt; GetAllUserTyped()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.ISet</span>&lt;UserType&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_GetUserById_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.GetUserById*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_GetUserById_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.GetUserById(System.String)">GetUserById(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public UserType GetUserById(string userId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">userId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">UserType</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_GetUserByNameTyped_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.GetUserByNameTyped*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_GetUserByNameTyped_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.GetUserByNameTyped(System.String)">GetUserByNameTyped(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public UserType GetUserByNameTyped(string name)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">name</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">UserType</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_GetUserTyped_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.GetUserTyped*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_GetUserTyped_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.GetUserTyped(System.String)">GetUserTyped(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public UserType GetUserTyped(string userId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">userId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">UserType</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_UpdateUser_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.UpdateUser*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_UpdateUser__0_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.UpdateUser(`0)">UpdateUser(UserType)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void UpdateUser(UserType user)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">UserType</span></td>
+        <td><span class="parametername">user</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_UserWithNameExists_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.UserWithNameExists*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KCAuth_KeyCloakAuthenticationService_1_UserWithNameExists_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KCAuth.KeyCloakAuthenticationService`1.UserWithNameExists(System.String)">UserWithNameExists(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool UserWithNameExists(string username)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">username</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KCAuth.IKeyCloakAuthenticationService.html">IKeyCloakAuthenticationService</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService-1.html">IAuthenticationService&lt;UserType&gt;</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.Interfaces.IAuthenticationService.html">IAuthenticationService</a>
+  </div>
+  <h3 id="extensionmethods">Extension Methods</h3>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsEnumerable_System_Object_">EnumerableTools.ObjectIsEnumerable(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsSet_System_Object_">EnumerableTools.ObjectIsSet(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsList_System_Object_">EnumerableTools.ObjectIsList(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsDictionary_System_Object_">EnumerableTools.ObjectIsDictionary(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsKeyValuePair_System_Object_">EnumerableTools.ObjectIsKeyValuePair(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsDictionaryEntry_System_Object_">EnumerableTools.ObjectIsDictionaryEntry(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsTuple_System_Object_">EnumerableTools.ObjectIsTuple(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToEnumerable_System_Object_">EnumerableTools.ObjectToEnumerable(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToEnumerable__1_System_Object_">EnumerableTools.ObjectToEnumerable&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToSet__1_System_Object_">EnumerableTools.ObjectToSet&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToList_System_Object_">EnumerableTools.ObjectToList(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToList__1_System_Object_">EnumerableTools.ObjectToList&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToDictionary_System_Object_">EnumerableTools.ObjectToDictionary(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToDictionary__2_System_Object_">EnumerableTools.ObjectToDictionary&lt;TKey, TValue&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToKeyValuePair__2_System_Object_">EnumerableTools.ObjectToKeyValuePair&lt;TKey, TValue&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToTuple__2_System_Object_">EnumerableTools.ObjectToTuple&lt;T1, T2&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_ToDynamic_System_Object_">Utilities.ToDynamic(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_DeepClone__1___0_">Utilities.DeepClone&lt;T&gt;(T)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_NullSafeEquals_System_Object_System_Object_">Utilities.NullSafeEquals(Object, Object)</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
