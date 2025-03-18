@@ -1,0 +1,778 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Interface IGRYLog
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Interface IGRYLog
+   ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog">
+  
+  
+  <h1 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog" class="text-break">Interface IGRYLog
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <span class="xref">System.IDisposable.Dispose()</span>
+    </div>
+    <div>
+      <span class="xref">Microsoft.Extensions.Logging.ILogger.Log&lt;TState&gt;(Microsoft.Extensions.Logging.LogLevel, Microsoft.Extensions.Logging.EventId, TState, System.Exception, System.Func&lt;TState, System.Exception, System.String&gt;)</span>
+    </div>
+    <div>
+      <span class="xref">Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)</span>
+    </div>
+    <div>
+      <span class="xref">Microsoft.Extensions.Logging.ILogger.BeginScope&lt;TState&gt;(TState)</span>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html#GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_AddLogEntry">IGeneralLogger.AddLogEntry</a>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="GRYLibrary.Core.Logging.GRYLogger.html">GRYLibrary.Core.Logging.GRYLogger</a></h6>
+  <h6><strong>Assembly</strong>: GRYLibrary.dll</h6>
+  <h5 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public interface IGRYLog : IDisposable, ILogger, IGeneralLogger</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_BasePath_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.BasePath*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_BasePath" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.BasePath">BasePath</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">string BasePath { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Configuration_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Configuration*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Configuration" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Configuration">Configuration</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">GRYLogConfiguration Configuration { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GRYLogger.GRYLogConfiguration.html">GRYLogConfiguration</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_GRYLibrary_Core_Logging_GRYLogger_GRYLogTarget_System_String_Microsoft_Extensions_Logging_LogLevel_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(GRYLibrary.Core.Logging.GRYLogger.GRYLogTarget,System.String,Microsoft.Extensions.Logging.LogLevel)">Log(GRYLogTarget, String, LogLevel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(GRYLogTarget logTarget, string message, LogLevel logLevel)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GRYLogger.GRYLogTarget.html">GRYLogTarget</a></td>
+        <td><span class="parametername">logTarget</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">message</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Logging.LogLevel</span></td>
+        <td><span class="parametername">logLevel</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_GRYLibrary_Core_Logging_GRYLogger_LogItem_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(GRYLibrary.Core.Logging.GRYLogger.LogItem)">Log(LogItem)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(LogItem logitem)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GRYLogger.LogItem.html">LogItem</a></td>
+        <td><span class="parametername">logitem</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_Microsoft_Extensions_Logging_LogLevel_System_Exception_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(Microsoft.Extensions.Logging.LogLevel,System.Exception,System.String)">Log(LogLevel, Exception, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(LogLevel logLevel, Exception exception, string messageId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Logging.LogLevel</span></td>
+        <td><span class="parametername">logLevel</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Exception</span></td>
+        <td><span class="parametername">exception</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_Exception_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.Exception,System.String)">Log(Exception, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(Exception exception, string messageId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Exception</span></td>
+        <td><span class="parametername">exception</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_Func_System_String__Microsoft_Extensions_Logging_LogLevel_System_Exception_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.Func{System.String},Microsoft.Extensions.Logging.LogLevel,System.Exception,System.String)">Log(Func&lt;String&gt;, LogLevel, Exception, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(Func&lt;string&gt; getMessage, LogLevel logLevel, Exception exception, string messageId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.String</span>&gt;</td>
+        <td><span class="parametername">getMessage</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Logging.LogLevel</span></td>
+        <td><span class="parametername">logLevel</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Exception</span></td>
+        <td><span class="parametername">exception</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_Func_System_String__Microsoft_Extensions_Logging_LogLevel_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.Func{System.String},Microsoft.Extensions.Logging.LogLevel,System.String)">Log(Func&lt;String&gt;, LogLevel, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(Func&lt;string&gt; getMessage, LogLevel logLevel, string messageId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.String</span>&gt;</td>
+        <td><span class="parametername">getMessage</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Logging.LogLevel</span></td>
+        <td><span class="parametername">logLevel</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_Func_System_String__System_Exception_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.Func{System.String},System.Exception,System.String)">Log(Func&lt;String&gt;, Exception, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(Func&lt;string&gt; getMessage, Exception exception, string messageId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.String</span>&gt;</td>
+        <td><span class="parametername">getMessage</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Exception</span></td>
+        <td><span class="parametername">exception</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_Func_System_String__System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.Func{System.String},System.String)">Log(Func&lt;String&gt;, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(Func&lt;string&gt; getMessage, string messageId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">System.String</span>&gt;</td>
+        <td><span class="parametername">getMessage</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_String_Microsoft_Extensions_Logging_LogLevel_System_Exception_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.String,Microsoft.Extensions.Logging.LogLevel,System.Exception,System.String)">Log(String, LogLevel, Exception, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(string message, LogLevel logLevel, Exception exception, string messageId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">message</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Logging.LogLevel</span></td>
+        <td><span class="parametername">logLevel</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Exception</span></td>
+        <td><span class="parametername">exception</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_String_Microsoft_Extensions_Logging_LogLevel_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.String,Microsoft.Extensions.Logging.LogLevel,System.String)">Log(String, LogLevel, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(string message, LogLevel logLevel, string messageId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">message</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Logging.LogLevel</span></td>
+        <td><span class="parametername">logLevel</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_String_System_Exception_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.String,System.Exception,System.String)">Log(String, Exception, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(string message, Exception exception, string messageId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">message</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Exception</span></td>
+        <td><span class="parametername">exception</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messageId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_Log_System_String_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.Log(System.String,System.String)">Log(String, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Log(string message, string messagId = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">message</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">messagId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_LogProgramOutput_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.LogProgramOutput*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_LogProgramOutput_System_String_System_String___System_String___Microsoft_Extensions_Logging_LogLevel_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.LogProgramOutput(System.String,System.String[],System.String[],Microsoft.Extensions.Logging.LogLevel)">LogProgramOutput(String, String[], String[], LogLevel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void LogProgramOutput(string message, string[] stdOutLines, string[] stdErrLines, LogLevel logevel)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">message</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span>[]</td>
+        <td><span class="parametername">stdOutLines</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span>[]</td>
+        <td><span class="parametername">stdErrLines</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Microsoft.Extensions.Logging.LogLevel</span></td>
+        <td><span class="parametername">logevel</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_UseSubNamespace_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.UseSubNamespace*"></a>
+  <h4 id="GRYLibrary_Core_Logging_GRYLogger_IGRYLog_UseSubNamespace_System_String_" data-uid="GRYLibrary.Core.Logging.GRYLogger.IGRYLog.UseSubNamespace(System.String)">UseSubNamespace(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">IDisposable UseSubNamespace(string loggerName)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">loggerName</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.IDisposable</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="extensionmethods">Extension Methods</h3>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsEnumerable_System_Object_">EnumerableTools.ObjectIsEnumerable(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsSet_System_Object_">EnumerableTools.ObjectIsSet(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsList_System_Object_">EnumerableTools.ObjectIsList(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsDictionary_System_Object_">EnumerableTools.ObjectIsDictionary(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsKeyValuePair_System_Object_">EnumerableTools.ObjectIsKeyValuePair(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsDictionaryEntry_System_Object_">EnumerableTools.ObjectIsDictionaryEntry(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsTuple_System_Object_">EnumerableTools.ObjectIsTuple(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToEnumerable_System_Object_">EnumerableTools.ObjectToEnumerable(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToEnumerable__1_System_Object_">EnumerableTools.ObjectToEnumerable&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToSet__1_System_Object_">EnumerableTools.ObjectToSet&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToList_System_Object_">EnumerableTools.ObjectToList(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToList__1_System_Object_">EnumerableTools.ObjectToList&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToDictionary_System_Object_">EnumerableTools.ObjectToDictionary(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToDictionary__2_System_Object_">EnumerableTools.ObjectToDictionary&lt;TKey, TValue&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToKeyValuePair__2_System_Object_">EnumerableTools.ObjectToKeyValuePair&lt;TKey, TValue&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToTuple__2_System_Object_">EnumerableTools.ObjectToTuple&lt;T1, T2&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_ToDynamic_System_Object_">Utilities.ToDynamic(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_DeepClone__1___0_">Utilities.DeepClone&lt;T&gt;(T)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_NullSafeEquals_System_Object_System_Object_">Utilities.NullSafeEquals(Object, Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLoggerExtensions.html#GRYLibrary_Core_Logging_GeneralPurposeLogger_GeneralLoggerExtensions_Log_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_String_Microsoft_Extensions_Logging_LogLevel_">GeneralLoggerExtensions.Log(IGeneralLogger, String, LogLevel)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLoggerExtensions.html#GRYLibrary_Core_Logging_GeneralPurposeLogger_GeneralLoggerExtensions_Log_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_String_Microsoft_Extensions_Logging_LogLevel_System_Boolean_System_Boolean_System_Boolean_System_Boolean_System_Boolean_System_Action_">GeneralLoggerExtensions.Log(IGeneralLogger, String, LogLevel, Boolean, Boolean, Boolean, Boolean, Boolean, Action)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLoggerExtensions.html#GRYLibrary_Core_Logging_GeneralPurposeLogger_GeneralLoggerExtensions_LogLoopExecution__1_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_String_System_Collections_Generic_IEnumerable___0__System_Boolean_System_Func___0_System_String__Microsoft_Extensions_Logging_LogLevel_System_Action___0__">GeneralLoggerExtensions.LogLoopExecution&lt;T&gt;(IGeneralLogger, String, IEnumerable&lt;T&gt;, Boolean, Func&lt;T, String&gt;, LogLevel, Action&lt;T&gt;)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLoggerExtensions.html#GRYLibrary_Core_Logging_GeneralPurposeLogger_GeneralLoggerExtensions_LogException_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_Exception_System_String_">GeneralLoggerExtensions.LogException(IGeneralLogger, Exception, String)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.GeneralLoggerExtensions.html#GRYLibrary_Core_Logging_GeneralPurposeLogger_GeneralLoggerExtensions_LogException_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_System_Exception_System_String_Microsoft_Extensions_Logging_LogLevel_">GeneralLoggerExtensions.LogException(IGeneralLogger, Exception, String, LogLevel)</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
