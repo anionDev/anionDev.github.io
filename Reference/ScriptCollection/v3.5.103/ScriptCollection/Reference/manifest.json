@@ -1,0 +1,85 @@
+{
+  "homepages": [],
+  "source_base_path": "E:/Data/Projects/ScriptCollectionBuild/Submodules/ScriptCollection/ScriptCollection/Other/Reference",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Articles/RequirementsForCommonProjectStructure.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/RequirementsForCommonProjectStructure.html",
+          "hash": "f0HJdrK7sHWxUAx+psjf9lS1rWZi6jHVkvVkU7l1xUo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/Hints.md",
+      "output": {
+        ".html": {
+          "relative_path": "Hints.html",
+          "hash": "Nh6u+Gj6T6aXoNLxpQvvmRbPoh4etQs4LZS6pv+7c+Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "ReferenceContent/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "IqxS/H0f1OB4BEp53K/NJTaPFkd+RHPOgp82yjouipY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
