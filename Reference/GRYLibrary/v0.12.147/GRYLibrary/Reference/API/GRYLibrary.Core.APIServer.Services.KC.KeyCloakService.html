@@ -1,0 +1,892 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class KeyCloakService
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class KeyCloakService
+   ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService">
+  
+  
+  <h1 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService" class="text-break">Class KeyCloakService
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html">ExternalService</a></div>
+    <div class="level2"><span class="xref">KeyCloakService</span></div>
+  </div>
+  <div class="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="GRYLibrary.Core.APIServer.Services.IExternalService.html">IExternalService</a></div>
+    <div><span class="xref">System.IDisposable</span></div>
+    <div><a class="xref" href="GRYLibrary.Core.APIServer.Services.KC.IKeyCloakService.html">IKeyCloakService</a></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService__Logger">ExternalService._Logger</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_IsConnected">ExternalService.IsConnected</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_ExternalServiceName">ExternalService.ExternalServiceName</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_ServiceNotAvailableMessage">ExternalService.ServiceNotAvailableMessage</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_EnsureServiceIsConnected">ExternalService.EnsureServiceIsConnected()</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_EnsureServiceIsConnected_System_Action_">ExternalService.EnsureServiceIsConnected(Action)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_EnsureServiceIsConnected__1_System_Func___0__">ExternalService.EnsureServiceIsConnected&lt;T&gt;(Func&lt;T&gt;)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_EnsureServiceIsDisconnected">ExternalService.EnsureServiceIsDisconnected()</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_TryConnect_System_Exception__">ExternalService.TryConnect(Exception)</a>
+    </div>
+    <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_Dispose">ExternalService.Dispose()</a>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="GRYLibrary.Core.APIServer.Services.KC.html">GRYLibrary.Core.APIServer.Services.KC</a></h6>
+  <h6><strong>Assembly</strong>: GRYLibrary.dll</h6>
+  <h5 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class KeyCloakService : ExternalService, IExternalService, IDisposable, IKeyCloakService</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService__ctor_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.#ctor*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService__ctor_GRYLibrary_Core_APIServer_Services_KC_IKeyCloakServiceSettings_GRYLibrary_Core_Logging_GeneralPurposeLogger_IGeneralLogger_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.#ctor(GRYLibrary.Core.APIServer.Services.KC.IKeyCloakServiceSettings,GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger)">KeyCloakService(IKeyCloakServiceSettings, IGeneralLogger)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public KeyCloakService(IKeyCloakServiceSettings settings, IGeneralLogger logger)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Services.KC.IKeyCloakServiceSettings.html">IKeyCloakServiceSettings</a></td>
+        <td><span class="parametername">settings</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.Logging.GeneralPurposeLogger.IGeneralLogger.html">IGeneralLogger</a></td>
+        <td><span class="parametername">logger</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_KeycloakClient_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.KeycloakClient*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_KeycloakClient" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.KeycloakClient">KeycloakClient</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public KeycloakClient KeycloakClient { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Keycloak.Net.KeycloakClient</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_Settings_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.Settings*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_Settings" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.Settings">Settings</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IKeyCloakServiceSettings Settings { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Services.KC.IKeyCloakServiceSettings.html">IKeyCloakServiceSettings</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_AccessTokenIsValid_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.AccessTokenIsValid*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_AccessTokenIsValid_System_String_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.AccessTokenIsValid(System.String,System.String)">AccessTokenIsValid(String, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual bool AccessTokenIsValid(string username, string accessToken)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">username</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">accessToken</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_DisconnectImplementation_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.DisconnectImplementation*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_DisconnectImplementation" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.DisconnectImplementation">DisconnectImplementation()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override void DisconnectImplementation()</code></pre>
+  </div>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_DisconnectImplementation">ExternalService.DisconnectImplementation()</a></div>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_EnsureUserIsInGroup_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.EnsureUserIsInGroup*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_EnsureUserIsInGroup_System_String_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.EnsureUserIsInGroup(System.String,System.String)">EnsureUserIsInGroup(String, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void EnsureUserIsInGroup(string user, string group)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">user</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">group</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_EnsureUserIsNotInGroup_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.EnsureUserIsNotInGroup*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_EnsureUserIsNotInGroup_System_String_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.EnsureUserIsNotInGroup(System.String,System.String)">EnsureUserIsNotInGroup(String, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void EnsureUserIsNotInGroup(string user, string group)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">user</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">group</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_GetKeycloakClient_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.GetKeycloakClient*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_GetKeycloakClient" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.GetKeycloakClient">GetKeycloakClient()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected KeycloakClient GetKeycloakClient()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Keycloak.Net.KeycloakClient</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_GroupExists_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.GroupExists*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_GroupExists_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.GroupExists(System.String)">GroupExists(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool GroupExists(string groupname)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">groupname</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_IsAuthenticated_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.IsAuthenticated*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_IsAuthenticated_Microsoft_AspNetCore_Http_HttpContext_GRYLibrary_Core_APIServer_Utilities_AuthorizeAttribute_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.IsAuthenticated(Microsoft.AspNetCore.Http.HttpContext,GRYLibrary.Core.APIServer.Utilities.AuthorizeAttribute)">IsAuthenticated(HttpContext, AuthorizeAttribute)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool IsAuthenticated(HttpContext context, AuthorizeAttribute authorizeAttribute)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.AspNetCore.Http.HttpContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.Utilities.AuthorizeAttribute.html">AuthorizeAttribute</a></td>
+        <td><span class="parametername">authorizeAttribute</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_IsAvailable_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.IsAvailable*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_IsAvailable" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.IsAvailable">IsAvailable()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override bool IsAvailable()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_IsAvailable">ExternalService.IsAvailable()</a></div>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_Login_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.Login*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_Login_System_String_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.Login(System.String,System.String)">Login(String, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public AccessToken Login(string username, string password)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">username</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">password</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GRYLibrary.Core.APIServer.CommonAuthenticationTypes.AccessToken.html">AccessToken</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_Logout_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.Logout*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_Logout_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.Logout(System.String)">Logout(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Logout(string name)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">name</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_OnStart_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.OnStart*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_OnStart" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.OnStart">OnStart()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void OnStart()</code></pre>
+  </div>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_Register_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.Register*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_Register_System_String_System_String_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.Register(System.String,System.String,System.String)">Register(String, String, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void Register(string username, string emailAddress, string password)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">username</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">emailAddress</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">password</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_RemoveUser_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.RemoveUser*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_RemoveUser_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.RemoveUser(System.String)">RemoveUser(String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RemoveUser(string username)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">username</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_TryConnectImplementation_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.TryConnectImplementation*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_TryConnectImplementation_System_Exception__" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.TryConnectImplementation(System.Exception@)">TryConnectImplementation(out Exception)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override bool TryConnectImplementation(out Exception exception)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Exception</span></td>
+        <td><span class="parametername">exception</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="GRYLibrary.Core.APIServer.BaseServices.ExternalService.html#GRYLibrary_Core_APIServer_BaseServices_ExternalService_TryConnectImplementation_System_Exception__">ExternalService.TryConnectImplementation(out Exception)</a></div>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_TryGetAuthentication_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.TryGetAuthentication*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_TryGetAuthentication_Microsoft_AspNetCore_Http_HttpContext_System_Security_Claims_ClaimsPrincipal__" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.TryGetAuthentication(Microsoft.AspNetCore.Http.HttpContext,System.Security.Claims.ClaimsPrincipal@)">TryGetAuthentication(HttpContext, out ClaimsPrincipal)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool TryGetAuthentication(HttpContext context, out ClaimsPrincipal principal)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Microsoft.AspNetCore.Http.HttpContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Security.Claims.ClaimsPrincipal</span></td>
+        <td><span class="parametername">principal</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_UserIsInGroup_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.UserIsInGroup*"></a>
+  <h4 id="GRYLibrary_Core_APIServer_Services_KC_KeyCloakService_UserIsInGroup_System_String_System_String_" data-uid="GRYLibrary.Core.APIServer.Services.KC.KeyCloakService.UserIsInGroup(System.String,System.String)">UserIsInGroup(String, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool UserIsInGroup(string user, string group)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">user</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">group</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.IExternalService.html">IExternalService</a>
+  </div>
+  <div>
+      <span class="xref">System.IDisposable</span>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.APIServer.Services.KC.IKeyCloakService.html">IKeyCloakService</a>
+  </div>
+  <h3 id="extensionmethods">Extension Methods</h3>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsEnumerable_System_Object_">EnumerableTools.ObjectIsEnumerable(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsSet_System_Object_">EnumerableTools.ObjectIsSet(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsList_System_Object_">EnumerableTools.ObjectIsList(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsDictionary_System_Object_">EnumerableTools.ObjectIsDictionary(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsKeyValuePair_System_Object_">EnumerableTools.ObjectIsKeyValuePair(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsDictionaryEntry_System_Object_">EnumerableTools.ObjectIsDictionaryEntry(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectIsTuple_System_Object_">EnumerableTools.ObjectIsTuple(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToEnumerable_System_Object_">EnumerableTools.ObjectToEnumerable(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToEnumerable__1_System_Object_">EnumerableTools.ObjectToEnumerable&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToSet__1_System_Object_">EnumerableTools.ObjectToSet&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToList_System_Object_">EnumerableTools.ObjectToList(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToList__1_System_Object_">EnumerableTools.ObjectToList&lt;T&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToDictionary_System_Object_">EnumerableTools.ObjectToDictionary(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToDictionary__2_System_Object_">EnumerableTools.ObjectToDictionary&lt;TKey, TValue&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToKeyValuePair__2_System_Object_">EnumerableTools.ObjectToKeyValuePair&lt;TKey, TValue&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.EnumerableTools.html#GRYLibrary_Core_Misc_EnumerableTools_ObjectToTuple__2_System_Object_">EnumerableTools.ObjectToTuple&lt;T1, T2&gt;(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_ToDynamic_System_Object_">Utilities.ToDynamic(Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_DeepClone__1___0_">Utilities.DeepClone&lt;T&gt;(T)</a>
+  </div>
+  <div>
+      <a class="xref" href="GRYLibrary.Core.Misc.Utilities.html#GRYLibrary_Core_Misc_Utilities_NullSafeEquals_System_Object_System_Object_">Utilities.NullSafeEquals(Object, Object)</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
